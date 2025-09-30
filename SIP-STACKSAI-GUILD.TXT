@@ -1,0 +1,161 @@
+🙂 Applicant Information        - Team application
+Email:  herogamerthesht572@gmail.com
+
+Twitter: 
+
+Stacks AI Guild @StacksAIGuild
+HeroGamer @herogamer21btc - Team lead
+Main project/association: Stacks AI Guild
+
+Notable ecosystem achievements or impact:
+
+Partnership with @LeoCoinSTX @reubs_btc | Roocoin | Zeroauthdao
+8 AI Guild bounties hosted - generating 150+ posts promoting Stacks with 15,500+ combined impressions and 150+ onchain transactions (increasing week by week) via ZeroAuthority + $130 USD value distributed back to AI content creators on Stacks.
+Our X spaces have had 3126+ audiences tuned in & 578+ replays (held 10 StacksAIGuild community spaces so far) - continuing to host them on weekly basis to build AI community on Stacks.
+Examples of AI Guild work (Working In Progress)
+
+AI Visual Content examples:
+sBTC Uncapped | SIPs | Clarity 4 | Bitflow | Muneeb | Let Africa Build
+Leo coin | Welsh | Roo coin | AI Guild logo | Jackbinswitch's Alpha Beast
+
+AI Developer:
+Fred's Bitcoin University
+Hero's SIP Insight
+Mike's Grow Your Bitcoin
+DeFiDictator's StacksLend
+
+📃 Grant Overview
+Grant Name:   Stacks AI Guild • Learn • Create • Earn
+
+Total Budget (USD, STX, or BTC):  USD $21,268
+
+Grant Goal (in one sentence): To empower AI enthusiasts in the Stacks ecosystem to learn advanced tools, collaboratively create AI-empowered content and codes, and earn rewards through community-driven bounties and Stacks projects partnerships.
+
+Grant Audience:  
+
+AI enthusiasts, AI content creators (e.g., storytellers, video makers, meme artists)
+Front-end developers (website) & smart contract developers who would like to leverage AI to boost their productivity
+Bitcoin L2 newcomers, and DeFi participants interested in merging AI with decentralized technologies. This includes both technical people and non-technical people looking to AI-upskill without deep coding barriers.
+Grant Team:  
+
+HeroGamer Github | X profile - Co-Founder (Grant's Team Lead)
+3hunna Github | X profile - Co-Founder
+Nosferatu Github | X profile - Co-Founder
+Bolupeak Github | X profile - Co-Founder
+Cryptodude Github | X profile - AI Developer Guild Team
+Blockface Github | X profile - AI Developer Guild Team
+Advisors:  
+
+GPSC Github | X profile - Mentor/Advisor
+🚀 Grant Mission, Impact, Risks, and Traction
+Grant Mission:    To empower AI enthusiasts in the Stacks ecosystem to learn advanced tools, collaboratively create AI-empowered content and codes, and earn rewards through community-driven bounties and Stacks projects partnerships.
+
+Grant Impact:    
+
+By equipping community members with AI skills, the Stacks AI Guild acts as an AI-powered social layer that enables builders to create engaging content such as professional videos, animations, short clips, polished graphics, memes, and tutorials that amplify marketing, boost awareness across social platforms, drive awareness and adoption of Stacks projects.
+
+It also serves as a learning hub for AI developers, identify gaps in the ecosystem, build useful tools, rapidly prototype apps, shorten the path from MVP to GTM, and contribute to ecosystem enhancements.
+
+By supporting community members' AI tools subscriptions, we would unlock their creativity to build and increase the rate of experimentations, output and productivity.
+
+In effect, the Stacks AI Guild becomes a focused AI layer that strengthens Stacks by attracting and retaining AI-driven community members, increasing productive activity, and positioning Stacks as the hub where AI and Bitcoin innovation meet.
+
+Grant Risks:
+
+Low adoption if AI tools prove too complex for newcomers, mitigated by beginner-friendly guides and personal touches such as educational screen shares and 1:1 classes .
+Market volatility affecting bounty rewards and member retention, addressed via diversified token funding sources.
+Technical integration challenges between AI and Stacks, countered by community feedback loops and Stacks OG developers guidance.
+Content quality dilution from rapid creation, managed through moderation and bounty criteria.
+Dependency on platforms like X for traction, other social platform for community building like discord so we can always retain our community members and outreach.
+Traction:
+Currently
+
+Active users: 60 members: 42 members of AI Visual Content enthusiasts + 21 members of AI Developer enthusiasts
+Transaction volume: 150+ onchain transactions (increasing week by week) via ZeroAuthority + $130 USD value distributed back to AI content creators on Stacks
+TVL: N/A currently, in the future we might look to have TVL
+Waitlist: around 10~20 more people would like to enter the AI Guild, but we have not opened up fully yet for membership as we are currently in early "MVP" proof-of-concept phase. We will leverage our Intro Bootcamp event to get signups. Unable to tell how many will signup yet. Would estimate minimum 20 people would wanna signup to our Intro Bootcamp
+🛣️ Grant Roadmap & Deliverables
+Deliverable: 
+Over 4 months from the start of receiving funding we will deliver below - main focus to build up the AI Visual Content Guild first and have a well-oiled engine/process, in the meanwhile also starting to build the foundation of AI Developer Guild:
+
+AI Visual Content Guild's 4 months deliverables
+✅ 4 Introductory Bootcamp Event (1 per month)
+✅ 16 Modules Stacks AI University (Nos + Bol) - gated
+✅ 16 Educational Workshops/Webinars
+✅ 20 Bounties - ecosystem promotion bounty (every 2 weeks) & project specific promotion bounty (every 2 weeks)
+✅ 1 on 1 AI content creation classes
+✅ 16 AI community spaces (Weekly)
+✅ Grow AI Content Guild Community Members
+
+AI Developer Guild's 4 months deliverables
+✅ 12 AI Developer (Mentees) educated
+✅ 1 on 1 AI Vibe Coding classes live streamed & recorded
+✅ 2 AI Tooling based on ecosystem gaps
+✅ 2 AI Vibe Coding Hackathons
+✅ Partnership with Stacks Ascent Program
+✅ Grow AI Developer Guild Community Members
+
+Milestones:
+Upfront funding request: - Amount: $8,182 (38% of Total Grant Budget)
+
+Milestone 1 - complete by: 30th November - Amount: $0 (0% of Total Grant Budget)
+
+AI Visual Content Guild
+
+1 Introductory Bootcamp Event (
+4 Modules Stacks AI University
+4 Educational Workshops/Webinars
+5 Bounties
+1 on 1 AI content creation classes
+4 AI community spaces (Weekly)
+AI Developer Guild
+
+3 AI Developer (Mentees) educated
+1 on 1 AI Vibe Coding classes live streamed & recorded
+Milestone 2 - complete by: 31st December - Amount: $7,482 (35% of Total Grant Budget)
+
+AI Visual Content Guild
+
+1 Introductory Bootcamp Event
+4 Modules Stacks AI University
+4 Educational Workshops/Webinars
+5 Bounties
+1 on 1 AI content creation classes
+4 AI community spaces (Weekly)
+AI Developer Guild
+
+3 AI Developer (Mentees) educated
+1 on 1 AI Vibe Coding classes live streamed & recorded
+1 AI Tooling based on ecosystem gaps
+1 AI Vibe Coding Hackathons
+Milestone 3 - complete by: 31st January - Amount: $2,802 (13% of Total Grant Budget)
+
+AI Visual Content Guild
+
+1 Introductory Bootcamp Event
+4 Modules Stacks AI University
+4 Educational Workshops/Webinars
+5 Bounties
+1 on 1 AI content creation classes
+4 AI community spaces (Weekly)
+AI Developer Guild
+
+3 AI Developer (Mentees) educated
+1 on 1 AI Vibe Coding classes live streamed & recorded
+Milestone 4 - complete by: 28th February - Amount: $2,802 (13% of Total Grant Budget)
+
+AI Visual Content Guild
+
+1 Introductory Bootcamp Event
+4 Modules Stacks AI University
+4 Educational Workshops/Webinars
+5 Bounties
+1 on 1 AI content creation classes
+4 AI community spaces (Weekly)
+AI Developer Guild
+
+3 AI Developer (Mentees) educated
+1 on 1 AI Vibe Coding classes live streamed & recorded
+1 AI Tooling based on ecosystem gaps
+1 AI Vibe Coding Hackathons
+Please note: Above timeline is based on receiving 1st payment of funding by 31st October.

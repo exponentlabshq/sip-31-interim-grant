@@ -10,7 +10,9 @@ Stacks excels at backend smart contract development but lacks UI/UX focus. The e
 
 ## The Solution
 
-Rocky, the designer behind Zero Authority and BNS One, will conduct **experience design audits and UI/UX redesigns** for the top Stacks applications driving TVL, daily wallet activations, and transactions.
+Rocky, the designer behind Zero Authority and BNS One, will **train and mentor a new generation of UI/UX designers** through hands-on experience design audits and redesigns of 8 top Stacks applications.
+
+**The Critical Output**: A cohort of trained UI/UX experience designers who can continue elevating Stacks ecosystem design standards.
 
 **Proven track record**: Rocky's designs for Zero Authority and BNS One correlated with measurable increases in transaction volume, new wallet creation, and revenue.
 
@@ -18,7 +20,9 @@ Rocky, the designer behind Zero Authority and BNS One, will conduct **experience
 
 ## Deliverables
 
-**8 complete design audits + UI/UX redesigns**, one per week:
+**Primary**: Cohort of trained UI/UX designers with professional portfolio work
+
+**Weekly Projects** (8 applications, one per week):
 
 1. **BoostX** - Features and integrations
 2. **Deorganized Media** - Content platform
@@ -29,11 +33,13 @@ Rocky, the designer behind Zero Authority and BNS One, will conduct **experience
 7. **Faktory.fun** - NFT and token launchpad
 8. **Skullcoin** - Community token
 
-Each deliverable includes:
-- **Design Audit Report** - UX issues, friction points, accessibility gaps
-- **UI/UX Redesign** - High-fidelity mockups with design system
-- **Live Review Session** - Public walkthrough with project teams
-- **Implementation Guide** - Component specs and front-end recommendations
+**Each week includes**:
+- **Design Audit** - Mentees learn to identify UX issues under Rocky's guidance
+- **Experience Design Prototypes** - Mentees create multiple design variations
+- **UI/UX Redesign** - High-fidelity mockups produced by mentee team
+- **Live Review Session** - Mentees present work to the community
+- **Implementation Guide** - Professional documentation
+- **1-on-1 Mentorship** - Personal coaching sessions on design skills
 
 ## Timeline
 
@@ -58,6 +64,13 @@ Projects selected based on:
 
 ## Expected Outcomes
 
+**Talent Development**:
+- 5-10 trained UI/UX designers with real-world portfolio work
+- 70%+ designer retention in Stacks ecosystem post-grant
+- Formation of Stacks Design Guild for ongoing collaboration
+- Self-sustaining design community that continues mentoring new designers
+
+**Project Impact**:
 - 8 Stacks applications with professional design audits and redesigns
 - Reusable design patterns and components for the ecosystem
 - Public design education through live review sessions

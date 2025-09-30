@@ -12,19 +12,20 @@
 ## 📃 Grant Overview
 - **Grant Name:** Design-Driven Development (DDD) for Stacks
 - **Total Budget (USD, STX, or BTC):** TBD based on scope
-- **Grant Goal (in one sentence):** Conduct professional experience design audits and UI/UX redesigns for the top 8 Stacks applications to drive ecosystem-wide adoption through design excellence.
-- **Grant Audience:** Stacks developers, DeFi users, Bitcoin builders, and end-users seeking improved UX on Bitcoin Layer-2 applications
+- **Grant Goal (in one sentence):** Train and mentor a new generation of UI/UX experience designers through hands-on design audits and redesigns of 8 top Stacks applications, building a sustainable talent pipeline for ecosystem growth.
+- **Grant Audience:** Aspiring UI/UX designers, front-end developers seeking design skills, Stacks project teams, Bitcoin builders, and the broader Stacks community
 - **Grant Team:** Rocky (@rocky_stacks), Blockface.btc (@blockface_btc), Exponent Labs LLC team
 
 ## 🚀 Grant Mission, Impact, Risks, and Traction
-- **Grant Mission:** Address the critical UI/UX gap in the Stacks ecosystem by delivering 8 comprehensive design audits and UI/UX redesigns for top applications driving TVL, daily wallet activations, and transactions. This grant will establish design excellence as a first-class discipline alongside smart contract development, creating reusable patterns and publicly demonstrating best practices through live review sessions.
+- **Grant Mission:** Empower aspiring UI/UX designers in the Stacks ecosystem to learn professional design practices through hands-on mentorship, real-world project audits, and collaborative creation of experience design prototypes. By training designers on 8 high-impact applications, we establish a sustainable talent pipeline that elevates design as a first-class discipline alongside smart contract development, ensuring the ecosystem has the human capital needed for long-term growth.
 
-- **Grant Impact:** Upon completion, 8 major Stacks applications (BoostX, Deorganized Media, Velar, StackingDAO, Hermetica, Boom Wallet, Faktory.fun, and Skullcoin) will have professional design audits and high-fidelity UI/UX redesigns with implementation guides. The ecosystem will gain reusable design patterns, component libraries, and public education through livestreamed reviews. Based on industry standard 10x ROI on design investment and Rocky's proven track record with Zero Authority and BNS One, we expect measurable improvements in user engagement, transaction volume, and wallet activations across audited applications.
+- **Grant Impact:** The critical output is a cohort of trained UI/UX designers equipped with real-world experience on 8 major Stacks applications (BoostX, Deorganized Media, Velar, StackingDAO, Hermetica, Boom Wallet, Faktory.fun, and Skullcoin). Each designer will work alongside Rocky in a mentorship model, learning to conduct audits, create prototypes, and deliver professional redesigns. The ecosystem gains both immediate improvements to applications through design audits and a long-term talent pool of designers who can continue elevating Stacks UX. This acts as a design-powered social layer that strengthens Stacks by attracting and retaining design-driven community members, positioning Stacks as the hub where design excellence and Bitcoin innovation meet.
 
 - **Grant Risks:** 
-  - **Risk:** Projects may not implement recommended designs. **Mitigation:** Provide detailed implementation guides, component specs, and offer live collaboration sessions with project teams.
+  - **Risk:** Designer mentees may lack foundational skills. **Mitigation:** Screen candidates for basic design understanding, provide beginner-friendly guides, and offer 1-on-1 mentorship sessions tailored to skill level.
+  - **Risk:** Low retention of trained designers post-grant. **Mitigation:** Build community through weekly livestreams, create ongoing opportunities through project partnerships, and establish a Stacks Design Guild for continued collaboration.
+  - **Risk:** Quality dilution with multiple designers producing work. **Mitigation:** Rocky reviews all deliverables, provides feedback loops, and establishes quality criteria for audits and prototypes.
   - **Risk:** Timeline constraints with one project per week. **Mitigation:** Rocky has proven ability to deliver quality designs under deadline pressure, as demonstrated with Zero Authority and BNS One projects.
-  - **Risk:** Selection of projects that don't represent ecosystem needs. **Mitigation:** Use objective metrics (TVL, daily wallet activations, daily transactions) for selection and gather community input.
 
 - **Traction:**
   - **Zero Authority:** Rocky's UI/UX design correlated with measurable increases in transaction volume, new wallet creation, and revenue generation
@@ -37,61 +38,84 @@
 
 **Duration:** 8 weeks (under 2 months)
 
-**Deliverable:** 8 complete design audit packages, each containing:
-1. **Design Audit Report** - Comprehensive analysis of UX issues, friction points, accessibility gaps, and user flow problems
-2. **UI/UX Redesign** - High-fidelity mockups with complete design system (colors, typography, components, spacing)
-3. **Live Review Session** - Public walkthrough streamed to the Stacks community with project team Q&A
-4. **Implementation Guide** - Component specifications, front-end recommendations, and technical documentation
+**Primary Deliverable:** Cohort of trained UI/UX experience designers equipped to elevate Stacks ecosystem design standards.
+
+**Weekly Deliverables (8 complete packages):**
+
+Each week focuses on one application with designer mentees working alongside Rocky:
+
+1. **Design Audit Report** - Mentees learn to identify UX issues, friction points, accessibility gaps, and user flow problems through hands-on analysis
+2. **Experience Design Prototypes** - Mentees collaboratively create multiple design variations and prototypes under Rocky's guidance
+3. **UI/UX Redesign** - High-fidelity mockups with complete design system (colors, typography, components, spacing) produced by mentee team
+4. **Live Review Session** - Public walkthrough streamed to the Stacks community where mentees present their work and receive feedback
+5. **Implementation Guide** - Component specifications, front-end recommendations, and technical documentation
+6. **Mentorship Sessions** - 1-on-1 classes and design critiques helping mentees develop professional skills
 
 **Milestones:**
 
 **Week 1:** BoostX (Features and integrations)
-- Design audit report delivered
-- UI/UX redesign mockups completed
-- Live review session conducted
+- Designer mentees conduct audit under Rocky's guidance
+- Mentees create experience design prototypes
+- UI/UX redesign mockups completed by mentee team
+- Live review session: mentees present work
 - Implementation guide published
+- 1-on-1 mentorship sessions on audit methodology
 
 **Week 2:** Deorganized Media (Content platform)
-- Design audit report delivered
-- UI/UX redesign mockups completed
-- Live review session conducted
+- Designer mentees conduct audit under Rocky's guidance
+- Mentees create experience design prototypes
+- UI/UX redesign mockups completed by mentee team
+- Live review session: mentees present work
 - Implementation guide published
+- 1-on-1 mentorship sessions on prototyping techniques
 
 **Week 3:** Velar (Leading DEX)
-- Design audit report delivered
-- UI/UX redesign mockups completed
-- Live review session conducted
+- Designer mentees conduct audit under Rocky's guidance
+- Mentees create experience design prototypes
+- UI/UX redesign mockups completed by mentee team
+- Live review session: mentees present work
 - Implementation guide published
+- 1-on-1 mentorship sessions on DeFi UX patterns
 
 **Week 4:** StackingDAO (Liquid staking protocol)
-- Design audit report delivered
-- UI/UX redesign mockups completed
-- Live review session conducted
+- Designer mentees conduct audit under Rocky's guidance
+- Mentees create experience design prototypes
+- UI/UX redesign mockups completed by mentee team
+- Live review session: mentees present work
 - Implementation guide published
+- 1-on-1 mentorship sessions on staking interface design
 
 **Week 5:** Hermetica (Bitcoin-backed stablecoin)
-- Design audit report delivered
-- UI/UX redesign mockups completed
-- Live review session conducted
+- Designer mentees conduct audit under Rocky's guidance
+- Mentees create experience design prototypes
+- UI/UX redesign mockups completed by mentee team
+- Live review session: mentees present work
 - Implementation guide published
+- 1-on-1 mentorship sessions on financial app UX
 
 **Week 6:** Boom Wallet (Stacks wallet)
-- Design audit report delivered
-- UI/UX redesign mockups completed
-- Live review session conducted
+- Designer mentees conduct audit under Rocky's guidance
+- Mentees create experience design prototypes
+- UI/UX redesign mockups completed by mentee team
+- Live review session: mentees present work
 - Implementation guide published
+- 1-on-1 mentorship sessions on wallet UX and security design
 
 **Week 7:** Faktory.fun (NFT and token launchpad)
-- Design audit report delivered
-- UI/UX redesign mockups completed
-- Live review session conducted
+- Designer mentees conduct audit under Rocky's guidance
+- Mentees create experience design prototypes
+- UI/UX redesign mockups completed by mentee team
+- Live review session: mentees present work
 - Implementation guide published
+- 1-on-1 mentorship sessions on NFT marketplace design
 
 **Week 8:** Skullcoin (Community token)
-- Design audit report delivered
-- UI/UX redesign mockups completed
-- Live review session conducted
+- Designer mentees conduct audit under Rocky's guidance
+- Mentees create experience design prototypes
+- UI/UX redesign mockups completed by mentee team
+- Live review session: mentees present work
 - Implementation guide published
+- 1-on-1 mentorship sessions on community-driven design
 
 **Alternative candidates:** STXTools and other high-impact Stacks applications may be considered based on project availability and community input.
 
@@ -103,6 +127,14 @@
 - Design systems and accessibility standards (WCAG)
 
 **Success Metrics:**
+
+**Primary (Talent Development):**
+- Cohort of 5-10 trained UI/UX designers with professional portfolio work
+- 100% of mentees complete all 8 weekly projects
+- Designer retention: 70%+ of trained designers remain active in Stacks ecosystem 6 months post-grant
+- Formation of Stacks Design Guild for ongoing collaboration
+
+**Secondary (Project Deliverables):**
 - 8 complete design audit packages delivered on schedule
 - Public design education through 8 livestreamed review sessions
 - Reusable component library and design patterns for ecosystem
@@ -110,8 +142,11 @@
 - Measurable improvements in user engagement metrics for implementing projects
 
 **Long-term Impact:**
-- Establish design-driven development as standard practice in Stacks ecosystem
-- Create talent pipeline for UI/UX designers entering Web3
-- Bridge coordination gap between smart contract developers and UI/UX designers
-- Position Stacks as leader in Bitcoin Layer-2 user experience excellence
+- Self-sustaining design community that continues mentoring new designers
+- Trained designers take on freelance/full-time roles with Stacks projects
+- Design-driven development becomes standard practice in Stacks ecosystem
+- Stacks Design Guild serves as talent pool for projects seeking UI/UX expertise
+- Bridge coordination gap between smart contract developers and UI/UX designers through trained bilingual designers
+- Position Stacks as the premier destination for designers in Bitcoin Layer-2
+- Ecosystem growth from the ground up through human capital investment
 
