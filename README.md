@@ -2,6 +2,20 @@
 
 **By Exponent Labs LLC**
 
+## Executive Thesis
+
+When Rocky redesigned Zero Authority's user experience, transaction volume surged. When he redesigned BNS One (Bitcoin Name Service), new wallet creation accelerated and platform adoption followed. The pattern is clear: **exceptional design drives measurable business results**.
+
+Now, as Stacks targets $1B TVL and positions itself as the leading Bitcoin L2, the ecosystem faces a critical bottleneck—not in smart contract infrastructure, but in **design talent**. While Nakamoto, sBTC, and Clarity 4 provide world-class backend capabilities, builders lack the UI/UX resources needed to compete with top-tier ecosystems and capture mainstream adoption.
+
+This grant addresses the gap strategically: **Rocky will train a new generation of UI/UX designers through hands-on mentorship on 8 high-impact Stacks applications**. Each week, designer mentees will conduct experience design audits and create professional redesigns alongside Rocky, learning the skills that generated his proven track record. The critical output isn't just 8 improved applications—it's a self-sustaining design community that continues elevating the entire ecosystem.
+
+**The opportunity**: Industry standard shows $100 return for every $1 invested in design. Rocky has already demonstrated this ROI twice. This grant creates a multiplier effect by **minting new UI/UX designers** who can replicate that success across dozens of Stacks projects, supporting builders as they prepare for TGEs, pursue exchange listings, and scale toward millions of users.
+
+**The thesis**: As the leading Bitcoin L2 accelerates toward its roadmap goals, design excellence becomes infrastructure. This grant doesn't just improve UX—it builds the **human capital required for ecosystem sustainability**, positioning Stacks as the premier destination where design excellence and Bitcoin innovation meet.
+
+---
+
 ## The Problem
 
 Stacks excels at backend smart contract development but lacks UI/UX focus. The ecosystem needs design excellence to drive adoption and maximize the value of its Bitcoin Layer-2 infrastructure.
