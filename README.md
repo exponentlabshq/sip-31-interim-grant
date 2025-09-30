@@ -2,6 +2,8 @@
 
 **By Exponent Labs LLC**
 
+📄 **[Read the Full Grant Submission →](sip-31-interim-grant-ddd.md)**
+
 ## Executive Thesis
 
 When Rocky redesigned Zero Authority's user experience, transaction volume surged. When he redesigned BNS One (Bitcoin Name Service), new wallet creation accelerated and platform adoption followed. The pattern is clear: **exceptional design drives measurable business results**.
