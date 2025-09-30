@@ -19,7 +19,7 @@
 ## 🚀 Grant Mission, Impact, Risks, and Traction
 - **Grant Mission:** Address the critical UI/UX gap in the Stacks ecosystem by delivering 8 comprehensive design audits and UI/UX redesigns for top applications driving TVL, daily wallet activations, and transactions. This grant will establish design excellence as a first-class discipline alongside smart contract development, creating reusable patterns and publicly demonstrating best practices through live review sessions.
 
-- **Grant Impact:** Upon completion, 8 major Stacks applications (Velar, StackingDAO, Hermetica, BoostX, Boom Wallet, Faktory.fun, Deorganized Media, and Skullcoin) will have professional design audits and high-fidelity UI/UX redesigns with implementation guides. The ecosystem will gain reusable design patterns, component libraries, and public education through livestreamed reviews. Based on industry standard 10x ROI on design investment and Rocky's proven track record with Zero Authority and BNS One, we expect measurable improvements in user engagement, transaction volume, and wallet activations across audited applications.
+- **Grant Impact:** Upon completion, 8 major Stacks applications (BoostX, Deorganized Media, Velar, StackingDAO, Hermetica, Boom Wallet, Faktory.fun, and Skullcoin) will have professional design audits and high-fidelity UI/UX redesigns with implementation guides. The ecosystem will gain reusable design patterns, component libraries, and public education through livestreamed reviews. Based on industry standard 10x ROI on design investment and Rocky's proven track record with Zero Authority and BNS One, we expect measurable improvements in user engagement, transaction volume, and wallet activations across audited applications.
 
 - **Grant Risks:** 
   - **Risk:** Projects may not implement recommended designs. **Mitigation:** Provide detailed implementation guides, component specs, and offer live collaboration sessions with project teams.
@@ -45,49 +45,49 @@
 
 **Milestones:**
 
-**Week 1:** Velar (Leading DEX)
+**Week 1:** BoostX (Features and integrations)
 - Design audit report delivered
 - UI/UX redesign mockups completed
 - Live review session conducted
 - Implementation guide published
 
-**Week 2:** StackingDAO (Liquid staking protocol)
+**Week 2:** Deorganized Media (Content platform)
 - Design audit report delivered
 - UI/UX redesign mockups completed
 - Live review session conducted
 - Implementation guide published
 
-**Week 3:** Hermetica (Bitcoin-backed stablecoin)
+**Week 3:** Velar (Leading DEX)
 - Design audit report delivered
 - UI/UX redesign mockups completed
 - Live review session conducted
 - Implementation guide published
 
-**Week 4:** BoostX
+**Week 4:** StackingDAO (Liquid staking protocol)
 - Design audit report delivered
 - UI/UX redesign mockups completed
 - Live review session conducted
 - Implementation guide published
 
-**Week 5:** Boom Wallet
+**Week 5:** Hermetica (Bitcoin-backed stablecoin)
 - Design audit report delivered
 - UI/UX redesign mockups completed
 - Live review session conducted
 - Implementation guide published
 
-**Week 6:** Faktory.fun
+**Week 6:** Boom Wallet (Stacks wallet)
 - Design audit report delivered
 - UI/UX redesign mockups completed
 - Live review session conducted
 - Implementation guide published
 
-**Week 7:** Deorganized Media
+**Week 7:** Faktory.fun (NFT and token launchpad)
 - Design audit report delivered
 - UI/UX redesign mockups completed
 - Live review session conducted
 - Implementation guide published
 
-**Week 8:** Skullcoin
+**Week 8:** Skullcoin (Community token)
 - Design audit report delivered
 - UI/UX redesign mockups completed
 - Live review session conducted
