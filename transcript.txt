@@ -1,0 +1,2390 @@
+SPEAKER 1
+What's up? What's up? Feel free to come up on the mic if you want. I'm going through looking at more brands for BNs that are just sitting there waiting for the taking. Also I put out a chart yesterday in the group that did 20% overnight. What's up dude?
+
+SPEAKER 2
+Oh good. Just, yeah, about to go to birds. So yeah, I just saw the space and I was like, yeah, let me join and catch up with the bro.
+
+SPEAKER 1
+Nice, nice. So yeah, what time is it for you? Like 8pm or something?
+
+SPEAKER 2
+It's around 7. So yeah, just preparing to go to bed because I want to go back to Ellie because you know, my week was rough and we just working on some so it's taking so much energy during the day. So. Yeah, yeah, I gotta rest.
+
+SPEAKER 1
+Very nice, very nice. I feel you. You gotta, gotta get that rest. Yeah.
+
+SPEAKER 2
+And how, how's the grind? And now you, since you're back from the vacation, how are you seeing the market?
+
+SPEAKER 1
+It's good man. I mean I'm looking at STX here and like we're. So we closed below my point of interest at 60 cents which means like, like 45 cents is totally on the table. But also that's really exciting because let's say, let me, let me go to coin market cap here. So the top 20 is an 8 billion dollar market cap. That's litecoin right now. So if stacks is a top 20 coin and we go to 8 billion market cap, that's like stacks. So if the difference between a dollar STX and $0.50 STX is an extra 100 gain. So instead of doing an 8x we can do a 16x just because we go down first. So that would be pretty exciting. Yeah.
+
+SPEAKER 2
+So we're expecting to, to go up instead.
+
+SPEAKER 1
+Yeah. So you know, we're looking for October. This, this week is like very uncertain because we've got like the potential government shutdown. It's the last day of the month, first week of the new month, blah blah blah. So I want to see October open up and go down immediately. So we make a wick and then start pumping next week. That would be ideal. Yeah. And also what do you think?
+
+SPEAKER 2
+Are we going to come back up? Is it time to hold the bag?
+
+SPEAKER 1
+Go ahead. Say that again about the Vela Velar. Let me, yeah, let me pull that up. Here we go. Okay. Is it, it's under a penny right now, like point one six. Is that right?
+
+SPEAKER 3
+Yes.
+
+SPEAKER 2
+You, you, you put the right one. What? You, you put the right one right.
+
+SPEAKER 1
+The one that's on stacks, I think. So let me. Where. Where do you look at the chart? Do you look at it at STX Tools?
+
+SPEAKER 2
+Yeah, sometimes I use STX Tools and they delisted on this big platform, so now they're on gate.
+
+SPEAKER 1
+Okay. I just. It's on coin or on trading view, so I just found it. Nice. Yeah, that did some crazy stuff. That's. It went straight up in two hours, five. So at 7:00am My time, it did. What was that? 700%. That's crazy. So, I mean, it's. It's retraced, so that could be signs of life way down here. So, I mean, yeah, if you held it, that would have been a good time to pay yourself. Or if you believe in it, then we've definitely retraced most of the way, so you could load back up.
+
+SPEAKER 2
+Yo, I think I'm looking at a different chat right now because it pumped, I think, few days ago and then it dropped like 50%.
+
+SPEAKER 1
+From like 0.0012 to 0.00. Like 5. Yeah.
+
+SPEAKER 2
+Now it's 0.001696. I'm looking at coin market cap.
+
+SPEAKER 1
+Yep.
+
+SPEAKER 2
+Oh.
+
+SPEAKER 1
+So, yeah, I mean, if you believe in the project, you could buy down here. Yeah, I do believe. Sign of life for sure.
+
+SPEAKER 2
+Yeah, I do believe in the project. I think when they get the funding, maybe they're gonna put liquidity in their pep decks, because a lot of people want to jump on their pen.
+
+SPEAKER 1
+Yeah. And. And like, Velar is a. That's where I do a bunch of my swaps and stuff, so it works. And you can also kind of highlight narratives. So we saw Aster take off, and now Velar had a similar. Just massive pump. And I mean, if you woke up to that, and we're lucky enough to catch the top of that, I would absolutely have sold that. So we're seeing the. The Defi narratives already take off, which is really exciting. What's up? Crypto, dude. So, yeah, that's good to see. I'll definitely be hunting other, like, Defi Perp Dex plays, and that could be one of the first things that starts, like, the Defi cycle.
+
+SPEAKER 3
+What up, boys?
+
+SPEAKER 2
+GMT dude, what up?
+
+SPEAKER 3
+I am barely awake. Haven't had any caffeine yet this morning.
+
+SPEAKER 1
+Let's go.
+
+SPEAKER 3
+Yeah, but grinding like normal. Seeing. Seeing what's going on. The timeline. Seen you a little market talk space over here. So I was like, hey, you know, I'll stop in there, talk about some markets.
+
+SPEAKER 1
+Yeah, you know, markets go up, markets go down.
+
+SPEAKER 2
+You Woke up the right times. Texas is now 120, bro.
+
+SPEAKER 3
+Oh, damn.
+
+SPEAKER 1
+Hell yeah, I got 120.
+
+SPEAKER 3
+Yeah, it, like, if that actually, you know, happened, that wouldn't even be the slightest surprise, to be honest. I'd be like, about time. That's all. I think win 1000. That's all I'd be saying at that point. Win 1k. Because it's still undervalued at 120.
+
+SPEAKER 1
+For real?
+
+SPEAKER 2
+Yeah.
+
+SPEAKER 1
+What are you cooking up this week?
+
+SPEAKER 3
+Oh, man, dude, I have so many things I'm cooking right now, it's insane. So obviously Boost X, like normal, right? We've got some features coming. Well, first off, let me take a step back. Submitted three different D grant requests and I submitted a SIP31 interim grant request. So the, the D grant request for cryptonauts, stacks, pots and dcast. So dcast I'm pretty excited about. I think that's going to help us out in the ecosystem because, you know, streamers are, you know, pretty, pretty popular, right? And they're influencers, obviously. And so, like, if you can get some streamers to, you know, start getting some SBTC tipped and splashing on their screen, then we get the idea. Hey, look at this. These are sending bitcoin on stream. What the. Like, I thought this was too slow to do that.
+
+SPEAKER 1
+I know. I still got to figure out how to get that configured. I mean, not figure it out. I have to like, attempt it.
+
+SPEAKER 3
+Yeah, well, I, I. With dcas, I actually turned it down a little bit because it wasn't like, you know, I'm trying to. I basically took a couple steps back just to better position myself for the grant because essentially no such thing as retroactive funding and indie grants.
+
+SPEAKER 1
+This code, this cohort.
+
+SPEAKER 3
+So.
+
+SPEAKER 1
+Yeah, what are they? They're only playing with like 25k or something, right?
+
+SPEAKER 3
+Yeah, per track, there's 100k total between the four tracks. That's their loose guidelines, from what I understand. I don't think they're like 100% sure. Sentence done. That way they're gonna kind of base it off of, you know, requests. But, you know, assuming they have all equal requests, then, yeah, that's from my understanding their, their goal. They're planning to divvy it out that way. The interim grants don't have a cap on them, though. I submitted one for Boost X to complete the road map there. What's crazy, though, is I still have other projects that are not even. That I didn't even submit a grant for. I mean, I could have submitted like, like three or four more grants to be on a grant request, to be honest. But you know, I didn't, you're building. I didn't want to be like, hey, I need half the D grants. I'm like, probably should space spread it out a little bit.
+
+SPEAKER 1
+I'm not even gonna go to those spaces until it's 100k a piece.
+
+SPEAKER 3
+For real. It's kind of ridiculous, sad at this point to think that they're only giving 25k per track. And it's like, yo, we just said we're gonna print an ass ton of money over the next five years. Now granted there, there should be some, some quality assurance on the funding and all that stuff. You know, it seems like D grants being a cohort 3 would justify more than 100k at this point, but.
+
+SPEAKER 1
+Right, but oh well, bureaucracy pretty much. Yeah.
+
+SPEAKER 3
+But yeah, I got another app that's pretty based, I'll tell you about. It's called Yield Pay. Pretty cool. It's pay with your yield basically for subscriptions.
+
+SPEAKER 1
+Oh, that's pretty cool.
+
+SPEAKER 3
+Yeah. Because we need a subscription model obviously and we already have reoccurring payouts right, via stacking.
+
+SPEAKER 1
+Right.
+
+SPEAKER 3
+300. You don't have to put your hand up, just say something, bro, and.
+
+SPEAKER 2
+Oh yeah, yeah, I was saying let me just have supper probably I'll jump back up if you're still holding a space.
+
+SPEAKER 3
+Cool, Ronald. Yeah. So Yield Pay though basically locks some stx. Your stacking yield covers your subscription to services paid out obviously every two weeks. You know, flexible though. So two, like we'll, we'll basically make it towards like two minimum two cycles maximum 24 cycles. So it's anywhere from one month to one year and terms. And so basically the, the essentially, you know, keep your principal, no monthly charges because your yields covering the service. You have to keep sending tokens obviously. And then the flexibility on the terms, that's kind of like why users want it. And then the why app developers will want it is because it's permissionless and anybody can accept Yield Pay. It's no, no allow list. Basically it's got on chain receipts, basically transparent proof of active subscriptions and there's no custody flows directly to their payout addresses from basically the fast pool integration.
+
+SPEAKER 1
+That's pretty cool. I mean that's exciting to just be able to think about setting up all your BNS naming conventions. Be like, all right, here's my STX yield, here's my other cash flow and crypto assets. And then. Yeah, that's going to be fun.
+
+SPEAKER 3
+Yeah, dude, we got, we got, we got lots of things cooking like stack spot. Oh, Crypto Smith is in here. He must have been known. I was just about to start talking about this. The heck. So the stack spot come up on stage brother. But request to speak or send him in the invite. But yeah, stack spot dude, that's going to be super based too. Like we're gonna have like a stacking mechanism, like kind of like a jackpot but you know it's a stack spot. Everybody stack a minimum amount, everybody have the same odds. Then the winner is you know, VRF selected on chain, you know, verifiably randomly selected from you know on chain function and then you know the winner gets all the yield. Basically that's one type of the stack spots, that's a jackpot type.
+
+SPEAKER 2
+Right.
+
+SPEAKER 3
+And then we're going to have the Roscoe style basically which is like the sequential payout basically for parties that are interested in stacking together and all receiving a payout. And there's sequential with random, no repeat. And then there's going to be a crowdfund type as well where the output, the winner is basically predefined and so we can do interesting things with all those different types basically.
+
+SPEAKER 1
+That's pretty sweet. I saw you made a like a screen fiends AR skin. Yeah, that looks cool dude. I want to go and like connect my wallet and that to like a custom gun, skin paint, whatever and start making you know, giga pepe skins and then collecting passive income off of NFT sales or skin sales.
+
+SPEAKER 3
+Dude, this is what I'm talking about. There's a pipeline for that that we could dev out for sure. Because I mean what we're talking about is essentially producing like four PNG files that just follow a specific naming convention. Right. And so it wouldn't really be that difficult really in the long run. Like we got to build out everything first to kind of get it the dependencies out of the way. But you know, once we have like the workflow in, in general ironed out then I'm sure we'll be able to do some sort of like you know, forward facing like UI UX that you're talking about. Like kind of exactly what you're envisioning. Some sort of like I guess you'd say skin editor app, right? Allow you to create the skins and then create the NFT contract and then you know, index that or register that those set of skins in basically a marketplace, right?
+
+SPEAKER 1
+Yeah, that'd be cool. You have this like community built marketplace where NFTs connect them to like percent of the sales or whatever.
+
+SPEAKER 3
+Yeah, just exactly how we basically do NFTs. Like.
+
+SPEAKER 1
+Yeah, right.
+
+SPEAKER 3
+So to speak. Like with royalties. Exactly. Dude, that would be a super based option. Yeah, that's just down the road. Unfortunately there's like, you know, I guess you'd say lower hanging fruit we have to hit first, but.
+
+SPEAKER 1
+Oh yeah, for sure. But like it's the, it would be huge. That vision of like ultimately it's, it's the Fortnite model where like you just monetize cosmetics and then add the, the like user like ownership at the end case and that's. It's huge.
+
+SPEAKER 3
+Yeah. Cosmetic ownership, true cosmetic ownership with portability, like you can trade it freely with a path to creating your own cosmetics too. That'd be like the ultimate win.
+
+SPEAKER 1
+Right? And then these pros, pro gamers can actually drop a thousand bucks on cosmetics and not be a waste.
+
+SPEAKER 3
+Exactly. They get, they could also in, you know, some of these big, big wig streamers and names. Right. They could, they could create their own skin packs and then sell them to their followers. Right. That would be like.
+
+SPEAKER 1
+Right.
+
+SPEAKER 3
+Ultimate. Ultimate. Like I guess you'd say market positioning.
+
+SPEAKER 1
+That'll be cool. We'll have to put out like bounties for people to go shill crypto knots to streamers once it's ready.
+
+SPEAKER 3
+Hell yeah. She'll crypto nuts. She'll boost x and shield dcast be like yo stream crypto nuts 2x while also using DCAST and observation. So that way your fans will watch you on X and they can use boost X to send you tips that will obviously help finance your operations, but can also translate into in game effects and obviously trigger the overlays via dcast. So the, the viewers get to see that, you know, immediate and I wouldn't say necessarily immediate, but you know, like the over overlay, you know, effect. And then they would be able to see their effect in game. Dude, that's like such a next level type of integration. I just really like the idea of being able to spawn an mp. Like because you know how Nintendo just did their little copyright or summoning.
+
+SPEAKER 1
+I do not.
+
+SPEAKER 3
+You didn't hear about that? Oh my God. They won a copyright, a patent for summoning in games.
+
+SPEAKER 1
+For summoning. How does that work?
+
+SPEAKER 3
+Well, they basically said, hey, you know how you summon pets in game or whatever. Now there is some context to it. Like I think you gotta like use a ball or something like that. But the context is pretty abusable. The way that's written is potentially abusable. But they're basically trying to say that, you know, if your game has summoning abilities in it and capture, you know, like, anything to do with basically summoning pets or whatever, that, you know, they're. You're violating their copyright and their intellectual property.
+
+SPEAKER 1
+Wow, copyright's good.
+
+SPEAKER 3
+Yeah, yeah, it is.
+
+SPEAKER 1
+Yeah.
+
+SPEAKER 3
+I fully agree. And so it's kind of up because they had the. They had the, the. Did you hear about Power World? There's a game called Palworld. It's pretty fucking popular. It's basically kind of like a better version of, you know, Pokemon and all that or whatever. Well, Nintendo sued the piss out of them while simultaneously filing for these, you know, copyrights or these patents. Right. And then also while shutting certain features down in Palworld, adding them into their Pokemon game. So literally fucking straight, ripping off features that they didn't technically innovate just because it had similarity in. In genre. So basically they think that they own the entire. That entire genre. And so, you know, I thought it would be funny if we had a summoning ability in Kryptonauts that was not. Not based off of the player, but based off the viewer. And then I feel like, what are you throughout that you didn't integrate Nothing. Now the. Are you gonna claim intellectual property right over that? You. Yeah, right. It's like, yeah, we summon. We got summons. We got real summons. When you boost a while you're watching them on Crypto Nuts, your little character is going to get summoned and your name is gonna happen. Like, I want. I want to be able to boost for you. Like, imagine you playing the game darkdude, WTZ playing the game Crypto Nuts, right? And you're streaming it, and then I come along and I boost you, and I boost you with a specific token. And that specific token spawns a little NPC that has my crypto dude BTC as that NPC's name. And it fights alongside you for like, you know, X amount of seconds or whatever. That would be next level engagement. Plus it'd be almost putting a big old middle finger at Nintendo for their summoning suck. Anyways, we got the better ones.
+
+SPEAKER 1
+Right? Like, what are they going to do, turn off Boost X? Oh, wait, they can't.
+
+SPEAKER 3
+Exactly, exactly. There's a lot of overlap happening. A lot of integration happening between BNS, GameFi, Social, Phi Defi. You know, like every turn there's going to be integrated opportunities. We'll just say, right?
+
+SPEAKER 1
+And that's kind of what I'm trying to do here is just as we prep for everything to blast off is identify which, like, sectors, which narratives are trending first. Kind of like we're talking about velar and like aster. So defy and like perp dexes could definitely blast off first. And I'm gonna, I'm gonna try to do a thousand X challenge, see if we can get 10 doubles in a row, turn 100 bucks into 100k.
+
+SPEAKER 3
+Let's go. Yeah, dude. What needs to happen is more fun, right? Period. Like how the fun happens in secondary. It just needs like that theme is fun. Like we, we facilitate the fun. We will attract the masses. People want fun. They don't want to just be bored with, you know, technicalities and, you know, just straight apy talk. They want to experience like culture fun, you know, that, you know, we actually do have fun in this ecosystem. We just need to build solutions that help onboard people into that fun and help increase the fun factor and give us more fun things to do.
+
+SPEAKER 1
+Exactly. Maximum fun. Yeah. How, how can we make. Well, games are fun, but yeah, everybody.
+
+SPEAKER 3
+Says they're a bitcoin maxi. I'm a freedom and fun maxi.
+
+SPEAKER 1
+I just looked up fun maxi btc and it's sitting right there.
+
+SPEAKER 3
+Nice, dude. Yes, dude.
+
+SPEAKER 1
+Oh, that's seriously. But yeah, how can we integrate more fun into the space?
+
+SPEAKER 3
+Into this space particularly? Well, I got some ideas. You know, we could. We could do a little space drop and send some people some invites. There's one way definitely load a list here.
+
+SPEAKER 1
+Oh, you got a whole list of fun.
+
+SPEAKER 3
+Yeah, I got a couple saved lists here.
+
+SPEAKER 1
+Okay.
+
+SPEAKER 3
+So that's the cool thing about the space drops now is you can actually save lists of people and, you know, load them into your list of who to receive a space drop. And then, you know, if they're running Boostx, they'll get a notification, you know, about this, you know, getting the space drop and backlinks to the space. So we should most definitely try and leverage this to grow spaces in terms of numbers. Definitely just loaded a list of 25 people.
+
+SPEAKER 1
+Okay, so you've got them all pre built.
+
+SPEAKER 3
+Yep.
+
+SPEAKER 1
+Or at least a couple.
+
+SPEAKER 3
+Yeah, I've got a list of. Let me actually load another one in here too. And some of these are going to have overlap with the names, obviously because they're kind of probably in both of these lists. There might be some different ones.
+
+SPEAKER 1
+But.
+
+SPEAKER 3
+We filter out duplicate recipients. If you got the same name in multiple lists and you try and load them both in there, that's fine. It'll automatically deselect duplicates.
+
+SPEAKER 1
+But yeah, I'm ready.
+
+SPEAKER 3
+That's a really base tool, actually.
+
+SPEAKER 1
+Yeah, I know. I saw all the editing options you have for space drops are crazy, but, man, I'm ready for October to hit and everything to start popping off. We're gonna have so much fun. What's UP, Hong Funk NFTs Rex Target. What's up, guys? Feel free to hop on the mic if you want to join. Go ahead, Crypto dude. And we should have a BNS auctions coming soon, which should be fun too. I'm ready to. To auction off some stuff and do some more giveaways, so. Man, it's going to be good, but live streaming Crypto nuts is going to be fun, but yeah, I'm so I'm just kind of scrolling through, well, a ton of coins. If anyone is a believer in velar or FLR, that's down like 90% of the recent move. So a good dip to buy, just like everything else is in a big, giant perpetual dip. But I'm looking at things like Arbitrum.
+
+SPEAKER 3
+Aptosis just did a little, little space drop to like 39 people.
+
+SPEAKER 1
+Oh, dang.
+
+SPEAKER 3
+So let's see how many of these people will actually show up because of this.
+
+SPEAKER 1
+Oh, cool.
+
+SPEAKER 3
+Gonna be. I'm gonna be sad if nobody shows up. I'm like you.
+
+SPEAKER 1
+Wait, so you dropped it to people outside of the space, huh?
+
+SPEAKER 3
+Yeah.
+
+SPEAKER 1
+Oh, wow.
+
+SPEAKER 3
+That's how I. Yeah, because the. The lists, basically. So when you open the space drop model now, you'll notice next to the add button, there's four new buttons. The far right one is the conditions check button. You know, you can check for conditions. The one that's to the left of that is the. It's got the gear on it. That's how you manage your list. One to the left of that is the load list button. That's why it's got the up arrow in it. And the one left of that has got the little save, you know, floppy disk in there. That's how you save the currently selected. So you'll have a list that's currently loaded in your table. You can click that one with a little floppy disk icon in it that'll say, you know, prompt you to provide a name for your list. But then you can save those selected names to a list and then you can use that selected or that saved list, you know, whatever you named it, you can use that later in a different space. So allows you to compile custom lists of names. You can also just straight manually add names to the list just via the add name field. And then you can Save those names to a. A list. Right. So you're basically a lot more flexible in. In micromanaging who you're sending the space drops to, not just via the conditions, but via the lists as well.
+
+SPEAKER 1
+Sweet. Okay. For some reason, like, I think I have to completely close out and reopen X in my browser because half the time it doesn't let me open this, the space drop thing.
+
+SPEAKER 3
+If you switch accounts back and forth, like if you have multiple accounts on X, you kind of need a hard refresh X before you know you'll be able to use Boost X. Because, like it this, the session state doesn't really transition that well when you're switching accounts. So you gotta kind of like manually refresh your browser to get it to pick itself back up. But just basically every time you switch accounts, just also hit F5 on your browser and, you know, resynchronize Boost X for you. It'll still be that same wallet. So if you need. If you're intending to change accounts, you will need to disconnect and then reconnect to the appropriate wallet account. You're trying to keep them in pair with your X account. Right.
+
+SPEAKER 1
+Sweet. I'll just have to add that to the. To the usual ui.
+
+SPEAKER 3
+Yeah, It's a little wonky, but kind of is what it is and not really a way to. I mean, there's probably a way to fix that, but I'm not gonna spend the time trying to figure it out.
+
+SPEAKER 1
+That's crazy. You see this about Kramer saying he's bullish on crypto.
+
+SPEAKER 3
+Oh, God. The one. This is gonna be the psyop.
+
+SPEAKER 1
+This is it. The psyop. Is that. He's right.
+
+SPEAKER 3
+Yeah. Psy up September.
+
+SPEAKER 1
+Yep. Oh, it's gonna be so funny.
+
+SPEAKER 3
+They're doing Psy up September for October.
+
+SPEAKER 1
+Right.
+
+SPEAKER 3
+Gotta prime their bags.
+
+SPEAKER 1
+I'm. I'm telling you, like, I fully expect in the next 30 to 60 days, like, there's just gonna be a weekend where everything flips out 100, 150% in a couple days and we never go back. And it's just going to be like, oh, yeah, all at once. It's like, go time.
+
+SPEAKER 3
+Yeah. Because people will be like, wait a second. Yeah, I never. That's how it always happens too. Like, like. No, there's none of this gradual gain. There's always breakouts. You're always fighting resistance. Yeah. You know, your support. You got your support and you got your resistance. That's the facts. So right through a little wall, people are like, it's on Just takes a little bit of pressure, right?
+
+SPEAKER 1
+And then the whole thing just pops. And then you have entire nation states with fomo.
+
+SPEAKER 2
+Wait a second.
+
+SPEAKER 3
+You could do well with Bitcoin. Oh, my God. If I didn't even know about this, how the.
+
+SPEAKER 1
+If I didn't buy 16k, that means I have to buy 116k. What?
+
+SPEAKER 3
+Yeah, buy now.
+
+SPEAKER 1
+Oh, it's ridiculous.
+
+SPEAKER 3
+Seriously?
+
+SPEAKER 1
+Yeah, it's crazy.
+
+SPEAKER 3
+They'll be. They'll be chasing like, that's, you know, like it. There's. There's two. Two Market player. Well, there's basically market dynamics of you either chase trends or you set trends. Right. And stacks has been always positioning itself into setting the biggest trend, which is literally putting the entire global economy on Bitcoin. Yeah, that's what it's always. Its whole entire mission has basically been to be like, hey, we're decentralizing the Internet and we're maximizing fucking Bitcoin's integration into the economy.
+
+SPEAKER 1
+Yeah, it's inevitable. It's not just inevitable. It's necessary. It's fully necessary everywhere.
+
+SPEAKER 3
+Yep. Inevitability and necessity equals just a matter of time.
+
+SPEAKER 1
+Exactly.
+
+SPEAKER 3
+Like, literally, how can function essentially in any type of sustainable manner without essentially integration of smart contracts? We obviously are entering an infrastructure. We. We're well into the information age and information is, you know, can be weaponized. And so, you know, we need a way to put information. We need a way to basically govern ourselves in a decentralized manner to keep the bad actors in check, basically. Like, because right now they can just min. Max propaganda and just own the out of narratives and basically own markets through that. So.
+
+SPEAKER 1
+Yeah, and like, not only that, even if they didn't control the narrative with where AI is going, it already is. Like, we went from like, no videos to video proof being like the center point of believability. And now in the past 10 years, we can't even trust videos. So, like, we're going to need verifiable ways to. To post media.
+
+SPEAKER 3
+Great observation. You know, that's a great observation because, yeah, you're right. Like, literally in one lifetime, we went from basically videos not even being a thing for evidence or proof, and then to being like the gold standard to now not even being trustworthy.
+
+SPEAKER 1
+Yeah, yeah. Like, you can't. You can't believe anything. You can't even. Like, we're gonna have to all go to our, you know, normie family members and be like, hey, you can't even trust, like, voice calls anymore. Like, people can spoof voices. They can Spoof everything.
+
+SPEAKER 3
+Yeah. Luckily my voice doesn't digitize very well. I sound completely different in real life. It's crazy, right?
+
+SPEAKER 1
+You have to integrate code words, seed phrases.
+
+SPEAKER 3
+Now if they don't hear me bitching about taxes in government every other sentence, then they know it's not me. It's simple.
+
+SPEAKER 4
+This is how they're gonna have to.
+
+SPEAKER 3
+Undermine their own if they're gonna try and impersonate me.
+
+SPEAKER 1
+That's the way to go. They'll have to propagate your. Your ideals.
+
+SPEAKER 3
+Yeah, exactly. You'll know me by my message.
+
+SPEAKER 1
+It's true. I mean, everything's so ridiculously inevitable and like blockchain and AI are made to go together and, and like people don't even know how to use AI yet.
+
+SPEAKER 3
+I know, it's kind of crazy. Like it feels like we're entering an era where like, we have so much disruption happening. It's, it's like almost so insane that people can't even see it coming, you know, like there's that level of blinders on, like they're. Everybody's in their comfort zone.
+
+SPEAKER 1
+Yep. Dude, the other thing, like I want to see built on blockchain is I want to see the downfall of YouTube. I really want to see YouTube just get abandoned and replaced.
+
+SPEAKER 3
+Yep, I'm down with that. YouTube is essentially the personification of kind of propaganda, like propaganda, sweat, dream. I mean, it used to be all right when you used to be able to like downvote and it was a little less crazy on the algorithm control. But you know, basically right now it's, you know, you, you, you, you can only like stuff. You're, you're, you're, there's no like, I mean, sure, you can, I guess, get a plugin and have, you know, the ability to see dislikes that way. But that's not baked into the user's experience. It's essentially half of the sentiment, sentiment being expressed. You're not even allowed to have essentially a negative opinion because that's not advertiser friendly. So what a great way to have free speech, right? Where the only speech that's allowed is the pre approved speech. I mean, it's the most retarded notion. YouTube, it's more like their tube and you just get to pretend. So, you know, we could easily disrupt that. I mean, to be fair, it's not even that hard. It's a web, it's a video sharing app. Like we can upload files. Okay. Upload videos. That's like been done to death. We've been doing that since pre, like since basically the beginning of the Internet. That's the whole thing of the Internet, basically. You know, when you're going on the Internet, you're uploading and downloading, right? So you know, we could do that, we could build a UI UX for it, we could have the hosting even be distributed. You know, the, the trick here is how do you compete with it? Because they have such entrenched, you know, position. They have such an entrenched position with all the creators. The way to do that is you align the incentives better than what YouTube currently have. YouTube has like a love hate relationship with their creators. They love to have them there so they can, you know, use them for their own gains. But they hate when they call them out on their own bullshit.
+
+SPEAKER 1
+Yeah, yeah, we just gotta decentralized the, the incentives and I mean make it so you can actually own your, your videos when you upload them. Have that be a transaction on chain and then your stuff can't get removed and your creators can, but you can't get demonetized on chain.
+
+SPEAKER 3
+Exactly. Proof. Proof of work basically integrated into the workflow. So that way there's some accountability. When the tried to pull any nefarious and they go, hey, what's this? You, you're not indexing, you're not, you're not listing like you're hiding and burying the truth here. It's clearly being talked about. Yeah, like it's, that's actually one of the things we're working with on Erupt. I mean we have an integrated media player in there. Even got like little footer player so you can listen and watch stuff while you're scrolling through the time timeline. But it's a very difficult position to tackle because it's very chicken and the egg scenario. Right? You, you need the, you need the users for the content, right. To engage with the content. You know, you need them to create the content. So we're trying to actually leverage Boost X to kind of help facilitate this a little bit. Because the chicken and egg scenario is a real problem. So the boost that people are doing on Boost X, we have message capabilities. So that will translate into some content. There is also talks about trying to leverage Boost X integration into X and other, you know, discord to allow content creation through essentially, you know, stacks based signature, you know, methods basically. So you know, in essence you're signing your content with your stacks wallet and storing it into the storage provider of your preference as defined by your storage URI and your Boost X options contract, which that's Already a functional hook that people can technically call. It's just not. There's not really an interface for setting that variable yet. But we need basically a little bit more competition in the storage provider infrastructure. In stacks. We had HERO hosting free storage for a long time. They turned down that free storage as an attempt to help spark the decentralized storage within the stacks ecosystem. Because anybody can run the. The hosting software, basically the node software for the users to basically store bucket. And you have buckets of storage. So we as a ecosystem, we can actually, you know, we have a whole untapped market right there, basically. Storage providers, it's like just sitting there waiting to be leveraged. Like we have the tech stack to even do it. Like it's already been done, it's already built. It's just. It's got repos people can literally install on their servers and spin up a, you know, know, kind of like a data storage provider. Right? You can become a data storage provider and spin up a business. You know, fill in the gap that HERO used to fill in. You know, they used to fill it in for free. Now there's a gap because it's no longer there. You can charge a service fee. You know, people can integrate that into their apps. You know, we could integrate that into Boost X, allow users to select, you know, your storage provider service or another storage for provider service for, you know, on an individual user basis. In the actual Boost X options, we want the flexibility to where the users have the capacity to find their storage providers and, you know, if they don't like the rates lift and lay, basically go, I'm moving on to a different storage provider, follows the same standard. Just going to export my content, import it over here, and then change my URI settings and then bam, all my content's resolvable at the new storage that I'm choosing that's got the better rate, you know, we want there. There. There's a total market there. A whole market.
+
+SPEAKER 1
+Oh yeah. And like we're approaching a point where all of like, not just that whole market, but there's different corners of the market that are about to converge. And like we've all been, you know, building in our own little corners. There's, you know, gamify and attention fi, then there's social fi, then there's like decentralized storage, then there's decentralized Internet and it's about to all come together.
+
+SPEAKER 3
+Storage fi, storefi. Yeah, Storage FI or data Phi or something like hosting Phi or something like that. Decentralized storage phi Something basically we. Because that's a gap that could be filled relatively easy for people because the tech stack already exists. You're not like, you're not inventing the wheel here or anything. You can just like literally clone the repos and you know, basically put them on your servers and be like, hey, put a little sass website on the. And you know, build out a dashboard and let people kind of, kind of have, you know, control over their storage bucket basically through an interface and then you know, give them some endpoints to copy into their apps so that way they can, you know, use this storage bucket. But you know, that is a huge market. I mean we just. That would be huge for a ton of different reasons. Users could use it personally, apps and developers could use it, you know, integrated, so to speak.
+
+SPEAKER 1
+They're.
+
+SPEAKER 3
+I mean, how big is Amazon storage? It's huge. Well, you can't pay for Amazon storage with stacks, but you could pay with a stack storage with stacks because the, the whole thing is built to be that way. Right. So huge market opportunity right there. Like, I'm really surprised that there wasn't people filling that gap soon as Hero announced that they were turning down their free storage. I'm surprised that there wasn't like 10 different entities saying hey, we're going to offer storage and we're going to offer it at this rate and the other next one's going to offer it for this rate. I'm really surprised that didn't happen because it's just fresh fruit literally waiting to be picked. I would be picking it up myself but I'm too busy picking other fruit.
+
+SPEAKER 1
+Yeah. Are you well researched into other storage projects like filecoin or Arweave?
+
+SPEAKER 3
+Yeah, I'm familiar with them. The reason why I want somebody to pick up the stack storage is because it's got nice coupling with this, the wallets that we already use and you know, it, it'll make it really easy to, to integrate for all the stacks apps. But yeah, I'm familiar with filecoin and you know, all the other. Are we even. Yeah, there, there's multiple options out there. I'm just trying to keep it as close to the ecosystem as possible so we can have less friction for the integration.
+
+SPEAKER 1
+Right? Yeah. Have like a stack centric one would be cool.
+
+SPEAKER 3
+Yeah, I mean that's. We already do. It used to be called Gaia. Now it's just like Stack Storage. Here it was hosting the, have it hosting the service for a long ass time for free and they were like, you know, this is a Little antithetical to decentralization, so we better stop doing this. So they, you know, ripped the band aid off and now we have this pain point in the ecosystem. That is somebody's opportunity. All it takes is somebody just putting in the work, right?
+
+SPEAKER 1
+And knowing all of the technicals and the fancy computer stuff.
+
+SPEAKER 3
+It's actually, you'd be surprised with the aid of AI, you could probably be like, hey, I want to start offering storage as a service and I want to use stacks storage repos and just, you know, provide some links to those repos. It's pretty easy to find. It used to be called Gaia Storage. Provide some links to those repos, say, hey, let's work on the model of this, you know, how would this be monetizable, etc. Etc. You know, like, you know, how would we create a dashboard for the user, etc. Like AI is insanely powerful these days. And that he's like, yes, it's gonna hallucinate some. You're gonna need the quality assured. True, I'm not saying it's perfect, but the ability to minimize your effort and help coordinate your, your agenda is pretty good. So you just, you know, delegate a little bit of the AI. Delegate a little bit to some professionals that may have more expertise in it. Hire some people, you know, build a business because that's what you're trying to do. Like you can either work for other people or you can work for yourself. That's the way it works. Or you can not work and just. Or, or you can not work and have been lucky and just got a lot of bitcoin and then ride everybody else's coattails. That's. Or be a bum. I guess that's another option. But you know, like those are your options. There's no escaping this.
+
+SPEAKER 1
+Option three, get lucky.
+
+SPEAKER 3
+Yeah, I mean obviously there's nuance in each one of those, but it's like work is the easiest way to get ahead because it's the thing you can control the most. Right? You control yourself, you can work, you can build. Just gotta have some little bit of self confidence in your capacity to think, you know, it's not that hard.
+
+SPEAKER 1
+Exactly. Until then, I'm doing, you know, a little bit of that and then a little bit of taking naps while I practice getting lucky and sell a BNS name for six figs.
+
+SPEAKER 3
+See that's. You're over here five heading it though. That's unfair. You're like, you know what, I got these based names, I'm just gonna fucking leverage these to the in victory. I love it.
+
+SPEAKER 2
+Right?
+
+SPEAKER 3
+That's recognizing the value and getting ahead of the curve. I mean, seriously, you see the opportunity, you're like, I'm not gonna wait. I'm not gonna ask permission. I'm just gonna do it.
+
+SPEAKER 1
+Right. It's like I own Apple Music app. Like the buy it. That's crazy. You want it.
+
+SPEAKER 3
+Dude. That's actually crazy. You want it, right?
+
+SPEAKER 1
+I think I have Apple pay as well. It's. It's ridiculous.
+
+SPEAKER 3
+Really?
+
+SPEAKER 1
+Yeah. Like, obviously it's not like the. The btcs, but it's like the dot app. It never expires. Like, I don't have to be pressured to sell any of this stuff.
+
+SPEAKER 3
+Oh, I see somebody's spamming in my. Over here.
+
+SPEAKER 2
+These.
+
+SPEAKER 3
+Rules.
+
+SPEAKER 1
+I see a Create auction button on BNS right now.
+
+SPEAKER 3
+Oh, really?
+
+SPEAKER 1
+Domain name set currency, starting bid reserve price, Buy now price and then duration. Oh. Ooh, this is cool. Auctions are here. It looks like. Go to your one dashboard. That's crazy. All right, so I was. I went to go look for like, what kind of Apple names I have. Let's say I have Amazon prime app, Apple Music app, applebees.appark invest, Allegiant. And that's just the A's and attention five. So I could just auction one of these. That would be sweet.
+
+SPEAKER 3
+Do it.
+
+SPEAKER 1
+Should I. Should I put up my first auction?
+
+SPEAKER 3
+I'm excited as.
+
+SPEAKER 1
+This is crazy.
+
+SPEAKER 3
+This is a new dimension. Let's go. I don't know. That's what I'm talking about. A marketplace. Like. Like, this is like. It's not. It's not rocket science, really. You build. You build and operate in markets. That's how we do this.
+
+SPEAKER 1
+This is. This is it. Like the future is now. Create Auction straight from. Oh, that's cool. That's pretty fun. Everything is changing. This is. It's absolutely crazy. I mean, where just like institutions, like, they either believed in Bitcoin at 16k or they buy 116k. It's like you either believe in stacks and BNs when dot BTCs are a dollar or you're going to buy them for 100,000. Like there's only one of each name and it's. It's absolutely crazy.
+
+SPEAKER 3
+Just booted somebody from the Discord server. Those spamming. I told them first in a DM off, get a real. Get a. Get a life, you meth head. Spell lowercase M and then capital eth. Because they're sending Erling.
+
+SPEAKER 1
+Yeah. Oh, man. I know. I've kicked so many dudes I'm just gonna like so I'm talking about this Thousand X challenge. I'm doing my discord. I'm just putting a three dollar a month paywall around it though. And these cheap little scammers like they don't even enter.
+
+SPEAKER 2
+Nice.
+
+SPEAKER 3
+Yeah, I'm excited about Yield Pay to come up because we can use Yield Pay as a great deterrent for spammers and apps. You know, like they like, they're the coolest part about it is like the app doesn't really have to like do a full on stacks integration if they didn't want to. Like they could just because the payer, the subscribers will be able to manage their subscriptions through the Yield paid dashboard. Right. But the, you know, so they can turn down their subscriptions from there if they want. But the apps, they'll just basically provide a button that forwards them along to Yield Paid, you know, and that's where the payment for the subscription, you know, for the stacking subscription basement, you know, is made. Right. They're basically stacking at that point. And so you know, the app in that sense doesn't have to have wallet connectivity. It's just the, they'll just have to provide the button. They will need to do some context in terms of like on chain monitoring but it can like keep them in a more web to kind of development mindset if that makes sense. Like it's less, less like mental burdens to conquer at that point because they can, they'll be able to check, they'll be able to check for active service via like essentially function call to an external service and then they'll be able to you know, accept their payments and tell users to manage their service subscriptions through external service at that point. So they'll just be able to like gate the content around that validation of the subscription being live. So we can, we can in theory create a bunch of like, like Patreon style pages, you know, like I don't want to say only fans but you know, for lack of a better term only stance.
+
+SPEAKER 1
+Funny. That'll be good. Yeah. Is there a way so I want to like integrate. BTC payments in my Discord without paying Discord 10. How do I do that?
+
+SPEAKER 3
+Yeah, you can integrate PTC payments into Discord. Yeah, you can use Boost X on Discord.
+
+SPEAKER 1
+There we go. Yeah, I'm gonna start getting that.
+
+SPEAKER 3
+Just use discord.com on your browser instead of the client and you can, you can use the Boost X just like you use it on X when you're on x dot com.
+
+SPEAKER 1
+Sweet.
+
+SPEAKER 3
+You'll see a little rocket next to the people's messages. And you click that and you know how you react, like with an emoji by, you know, like the little action bars or whatever when you're mousing over a message or whatever.
+
+SPEAKER 1
+You just boost from there.
+
+SPEAKER 3
+Yeah, you just boost from there. There's the little orange rocket that lives over there on the right hand side.
+
+SPEAKER 1
+Dope, dope. What's up, block face?
+
+SPEAKER 2
+How's it going, guys?
+
+SPEAKER 3
+What up?
+
+SPEAKER 1
+Just chilling and chilling, man.
+
+SPEAKER 2
+Yeah, they're giving away 50 grand for the interim grants. I gotta get one in before midnight.
+
+SPEAKER 3
+How much are they giving away over there?
+
+SPEAKER 2
+Like hundreds of thousands of dollars.
+
+SPEAKER 3
+Yeah, I submitted my interim grant for SIP 31 for Boost X for 15K. I probably could have requested more, but I was like, you know what? I don't want to be like, because I don't know what their limits are and I know there's other people trying to get done in there and, you know my budget.
+
+SPEAKER 2
+So the smaller. Not what she said, the smaller the better. Because if you can deliver sooner, I think you can ask for more, if that makes sense, you know?
+
+SPEAKER 3
+Yeah. I included everything we'd already done in terms of milestones in the request. That way we can kind of put it into context of like, you know, in the totality of things.
+
+SPEAKER 2
+You guys are a luck. If you guys don't get any funny, I'm leaving.
+
+SPEAKER 1
+Yeah.
+
+SPEAKER 3
+That'S it.
+
+SPEAKER 1
+Be.
+
+SPEAKER 3
+It'd be really surprising. I'd be like, well, Jesus Christ, you hate me. I mean, Jesus Christ.
+
+SPEAKER 2
+But again, like, what do you think.
+
+SPEAKER 3
+I his wife or something? Like, I know, like, like, bro, I'm married. What are you talking about?
+
+SPEAKER 2
+You have a jack in there. Jack. A jack will get it flagged. You know what I'm saying?
+
+SPEAKER 3
+I hope so. Like, I'm at the point where it's like, yo, we're building cool over here. When Mooney piping Boost X. When Muneeb, you know, coming to the spaces and being a real one with us, you know, like that. Like, I get that he's got to keep the professional look and all that.
+
+SPEAKER 2
+Jazz, but he doesn't hang around with people like us.
+
+SPEAKER 3
+Oh, Ivy League mentality.
+
+SPEAKER 2
+Have you ever seen him speak to a normal person in your life? When's the last time you saw that guy speak to a normal person? He's not like, that's.
+
+SPEAKER 3
+I think part of the problem is I think our bags would go to the moon if we can just get him to come talk. Like A normie for five minutes, say taxation step one, too much money. Our bags would probably go to the intergalactic. And he said taxation step once.
+
+SPEAKER 2
+Yeah. I think everything that he says has to be reversed and I think they've decided such, you know.
+
+SPEAKER 3
+Yeah, well, whoever's handlers are need to fuck off.
+
+SPEAKER 1
+Oh, CEOs are going. Huh? CEOs are going to zero.
+
+SPEAKER 2
+How dare you.
+
+SPEAKER 3
+We don't need CEOs. We need to decentralize something. Something we need.
+
+SPEAKER 2
+Czo. Yeah.
+
+SPEAKER 3
+Nice. Yeah, yeah, we, I think, you know, maybe we should, we should think about like the branding of stacks and general as potentially, you know, obviously we have marketing, you know, issues. We'll just say like we've lacked a marketing budget or whatever you want to call it. But like be. Let's just assume for a second that wasn't the cause. Let's assume they've thrown shit tons of money at marketing. Would it be maybe the messaging and the marketing that would be the cause.
+
+SPEAKER 2
+You know, it's funny, the whole interim grant that we're submitting is around design because rocky did the front ends for Xero and BNS1 and now when we look back at the usage of Zero Authority and BNS one we're like, I think that design had something to do with it. So that's what our interim grant is for where rocky is going to teach all of his front end e commerce design wizardry to folks.
+
+SPEAKER 3
+Nice. Yeah, do it. Because there's most definitely, you know, we need to, we need to wow them on their first impressions and we need to also, you know, triple, quadruple down to the ethos because you know, we are at the hip tied to bitcoin. Bitcoin success, you know, is a, you know, dependency of our success, so to speak. I mean we technically could lift and late to another chain if it was proof of work. But I won't go down the road that, that road. But my, my point is we have the tech stack that matches the ethos. Like we're, we, we honor the individual's consent and that's what the signatures, you know, private signatures, you know. Yeah. That's what the wallets are all about, etc.
+
+SPEAKER 2
+So what good is freedom if nobody can use it?
+
+SPEAKER 3
+Yeah, exactly. So we need to like triple down on the ethos of why we're here. We're here to build, build out tools that enshrine freedom, put power in check, empower the little guy, you know, that we're not here to basically line some rich bags and get them another Yacht. We're here to change the world. So triple down on this marketing, quadruple down on that, you know, vibe, and we will have no problems getting attention, mind share, and onboarding, because that's what people want. They want a change in the status quo that results in a better quality of life for them and more freedom and less tyranny. Like, we have it really good in America, but we could have it way better. And lots of places in the world don't even have as good as that. We have it in America. Nowhere's perfect, though. There's. It's far from perfect.
+
+SPEAKER 2
+Look, I'd rather be homeless in America than in any other country on the planet.
+
+SPEAKER 1
+True story.
+
+SPEAKER 3
+You might be like, I would. You probably want to preface that with specific locations in America, because some locations in America being homeless ain't gonna be that favorable. But I get what your sentiment is there. We have a. We have most definitely more. More opportunities.
+
+SPEAKER 2
+I can walk my ass to a place where I can work. You know what I mean? Exactly.
+
+SPEAKER 3
+Exactly.
+
+SPEAKER 2
+Right. That's a. That's a big freedom. They don't allow gypsies to cross borders in Europe.
+
+SPEAKER 3
+Yeah, we need. We need less statism, more voluntarism, and we need that yesterday.
+
+SPEAKER 2
+So it's like, what would happen if Adam Smith was a UI UX designer?
+
+SPEAKER 3
+You're probably describing a lot of us in this ecosystem.
+
+SPEAKER 2
+I like it.
+
+SPEAKER 3
+You know, we. We have bitcoin backing us. We have the security of bitcoin on our side. Hold on one second. Get a phone call. Yeah, we have the security of bitcoin on our side. We have the tech stack that is unparalleled. So let's fucking crush it. Give me one second. I gotta answer this.
+
+SPEAKER 1
+But, yeah, good point, Blockface. It's all about the marketing angle and how it's delivered to gen pop.
+
+SPEAKER 2
+Well, I mean, Wozniak might not agree, but Steve Jobs made the point. You know what I'm saying?
+
+SPEAKER 1
+Yep. Yep.
+
+SPEAKER 2
+And I'm like 30 minutes away from Waterloo. So the company that, like, was building Waterloo BlackBerry was killed by a competing design. You know, there was a time where everyone was using BlackBerry. Now people think it's food.
+
+SPEAKER 1
+Yeah. And they were like, they were fighting the. The new designs just because they liked having buttons you could push on your phone. And that lasted like a year.
+
+SPEAKER 2
+Look, I will say this. Although you're not allowed to do it anymore, texting and driving with a BlackBerry is still the best experience.
+
+SPEAKER 1
+That's. That's. It's true. We got Tripp in the house. What's up, man?
+
+SPEAKER 3
+All right, boys. Unfortunately, I had to take a quick personal time. I gotta go help somebody. And I will be back in a little while, but keep hammering, keep getting the word out. What up, Trip and Crypto Smith, by the way. We will, when I get back, we'll place that. Well, we'll get. We'll get that taken care of. I've seen you message me, you send. You're back home. So I'll be back in a little bit. Unfortunately, I have to handle this family.
+
+SPEAKER 1
+Thing, so thanks for joining, man. Yeah, have a good one.
+
+SPEAKER 3
+All right, Later.
+
+SPEAKER 1
+All right. Crypto Smith. What's up, man? Okay, okay.
+
+SPEAKER 3
+Sorry, battery.
+
+SPEAKER 2
+Initially, I was in a bad network. I was running, so.
+
+SPEAKER 1
+Yeah, no worries.
+
+SPEAKER 2
+Back on styling.
+
+SPEAKER 1
+There you go. Yeah. You guys just cooking as usual?
+
+SPEAKER 2
+Yeah, actually looking at the stock sports contract right now.
+
+SPEAKER 1
+Never ends. Excellent. Excellent block face. So going into the the next, like, three months, what narratives do you see trending? First.
+
+SPEAKER 2
+They are lifting the prohibition on bitcoin right now with the genius and the clarity legislations. And there's also a new legislation specifically talking about pension funds. So for us and the market we're working in, which is like finance and real estate, which are super heavily regulated, if we're not compliant, we're essentially running an illegal operation. And so personally, for us, it's about making sure that we are operating lockstep with the genius, clarity, and emerging legislations over these transactions.
+
+SPEAKER 1
+Gotcha. Okay, so you think we'll see, like, RWAs in those types of blockchain related sectors.
+
+SPEAKER 2
+You mentioned RWA. We're going to New York City on October 15th for an RWA competition for Aptos created by the former Facebook Libra guys.
+
+SPEAKER 1
+Oh, for aptos.
+
+SPEAKER 3
+Yep.
+
+SPEAKER 2
+We submitted a. We're submitting a hackathon submission around like Robinhood makes a baby with Airbnb. And yeah, rocky flying out with another teammate from California to New York City teammates.
+
+SPEAKER 1
+Well, that's exciting. So dang. I mean, do me a favor.
+
+SPEAKER 2
+Check out Resort maker dot com. That's why we're going. Resort maker dot com.
+
+SPEAKER 1
+Okay. Resort maker dot com. Oh, cool. Oh, okay, I see. So like, is it. Is it associated with defi. Like, fractional reserve ownership? Is it something.
+
+SPEAKER 2
+You got it. You nailed it. That's exactly right. But also, well, we're going to New York because we want to meet the people who are experts at. On chain real estate. And so far, Afcox has 5% of the real world asset space, so.
+
+SPEAKER 1
+That. That'll be freaking awesome. Imagine being able to. Yeah. Invest in Airbnb, kind of cash flowing properties on blockchain. That would be phenomenal.
+
+SPEAKER 2
+So we went to a real estate conference in Vegas in May. That's where we met the founder, Ian of Resort Maker. So what we've been doing in the background is just identifying Web2 businesses that are eventually going to go on chain and then working with those web two business founders and then bringing them on chain. So that's one example of that.
+
+SPEAKER 1
+That's crazy. Actually in I think it was either early 2024 or 2023, I pulled a 10x off of a similar project that was trying to, trying to fractionalize real estate.
+
+SPEAKER 2
+I mean Grant Cardone is doing it in public with Bitcoin. If you look at his updates, he talks about bitcoin all the time. Hey, I used 40 million of Bitcoin to collateralize a $200 million commercial real estate.
+
+SPEAKER 1
+Yeah, that's huge. He's definitely getting loud too about what they're trying to do with his house and, and stuff with female.
+
+SPEAKER 2
+So the future is here. It's just not regulated yet. But it's about to be regulated. And once that, once that notch turns, there's no one turning it.
+
+SPEAKER 1
+Yeah, it's like the final green light. And you know, altcoins are finicky. They need all 10 out of 10 green lights to be on the same page. But once they are, it's turbocharged.
+
+SPEAKER 2
+And what happens after that? Nobody has any way to predict. Does that make sense?
+
+SPEAKER 1
+Yeah, yeah. We can't see it. It's like we're approaching an event horizon.
+
+SPEAKER 2
+That's why we call it exponent lands.
+
+SPEAKER 1
+Exactly. I mean, you think we're gonna drastically transform by 2030?
+
+SPEAKER 2
+My Trinity teacher told me what hasn't happened in years can happen in a day.
+
+SPEAKER 1
+Yeah, that sounds about. Yeah. I mean everything is converging towards the. The unknowable.
+
+SPEAKER 2
+Yes. And the more I know. I had a friend, Dan, tell me that the only appropriate response to AI is hysteria.
+
+SPEAKER 1
+That's true, that's true. I think we're going to see it on both sense. We'll see hysteria in like the euphoric sense and in the, the fear based sense.
+
+SPEAKER 2
+I find when people don't know how to use AI, it's the devil. When they learn how to use it, it's their best friend.
+
+SPEAKER 1
+So, you know, that's the same thing with everything though, right? That's, you know, wrong. Yeah. Nature in a nutshell.
+
+SPEAKER 2
+Guns, germs, steel and silicon is how I Think about it.
+
+SPEAKER 1
+That was. Yep. The list on my mind. Yeah, it's. It's so true. I mean, it's. All we know is that it's gonna change, is gonna happen, and it's gonna happen fast. So it's gonna be crazy once it hits.
+
+SPEAKER 2
+A Colombian guy once told me, you can't block the sun with your finger.
+
+SPEAKER 1
+That is very true. It is very true. So, yeah. Now you got me looking at the. The APT chart. Do you have any other coins that you are. Are developing?
+
+SPEAKER 2
+And here's the interesting thing about Aptos. It's the stable coin activity that it's taking away from Ethereum. That's the interesting part about Aptos.
+
+SPEAKER 1
+Interesting. This. Yeah. This is definitely going to be like the stablecoin super cycle. And that's going to be a prominent narrative.
+
+SPEAKER 2
+So take a look at that picture at the top.
+
+SPEAKER 1
+Okay. Well, if it lets me scroll. Maybe not. There we go. Stable coin. Oh, wow. 20%.
+
+SPEAKER 2
+So the whole Aptos thing was. Is Facebook technology. Everything that they used for Libra and DM and Facebook coin is exactly what they built Aptos with. The same person who was the head of distributed backend engineering at Facebook is the same Avery Shape at the head of this. That's why the fees are so low, because they built it at Facebook to handle Facebook scale. And so why, if you're going to have a stable coin for the next 20 years, you want to make sure you're minimizing your fees.
+
+SPEAKER 1
+That's true. That's crazy. I think, like, I mean, I personally think, you know, stablecoins are an oxymoron, especially since it involves pegging something that's lost 99 of its value. But stable coins are going to attract a lot of the. The general populace across, like, all chains.
+
+SPEAKER 2
+Yeah. It's funny, when you look at the population, they don't really own equities. They own synthetics of equities called index funds. Right. Most people don't own Apple. They own an Apple synthetic through an index fund. And the pro. The same is likely going to happen in bitcoin, where people don't hold the base asset of gold, but they sometimes buy a Rolex.
+
+SPEAKER 1
+Yep, exactly. Yeah. That's what we're going to see with, like, retirement funds is they're going to give Bitcoin the check mark after it's above all time, and then they're going to allow. Yeah, then they allow all the boomers to invest.
+
+SPEAKER 2
+Now, the only thing is the price of bitcoin doesn't have to go up even if ETFs get billions of dollars in them, does that make sense? Because there's a billion dollars betting on either side of gold, yet gold is worth what, $4,000. So the only danger is just because Bitcoin is now flourishing through the economy, that doesn't necessarily mean that the price of Bitcoin needs to go up. That's the kind of fly in the ointment thing, you know.
+
+SPEAKER 1
+Yeah, yeah, exactly. And I, that's one thing I look at a lot is I'll go to the like the bitcoin weekly or monthly chart on logarithmic and like it's very clearly asymptotic. So either we break out into another S curve or it, you know, air quotes stabilizes at some general price. But yeah, that's like stacks. Bitcoin works regardless of the price.
+
+SPEAKER 2
+Yeah. So I think our approaches, we said if we're going to continue doing software development and AI, might as well do it on an appreciating asset. That's why we're involved in stacks. Right. stacks is going to yield. If we're going to build software, might as well do it with an asset price that's going to go up over three to 10 years.
+
+SPEAKER 1
+Exactly. Yeah, that's, that's what's so exciting on, at least on stacks is. Yeah. You check out that chart and we are building and accumulating at the bottom.
+
+SPEAKER 2
+Yeah. Look, I hope stacks goes to 10 cents. I'll be honest with you. Right.
+
+SPEAKER 1
+Personally, because let's say that it has a fair market value or a fair price of $10. Like if you go from a dollar stacks, that's, you know, that's a 10x, that's thousand percent gains. But if you drop down to 50 cents now, that's a 20x. Like every little chop downwards we see from now into the range, rest of the year is like it's doubling your money.
+
+SPEAKER 2
+Yeah. I, if you have the long enough time horizon. Right. Because you, if you judge your winning trade too soon, you can think you're losing.
+
+SPEAKER 1
+Exactly, exactly. That's very well said. Yeah, that's so true.
+
+SPEAKER 2
+I had my financial licenses back in 2006 and I gave them up. But you know, I find myself right back into the same industry 20 years later. Not much has changed.
+
+SPEAKER 1
+Everything changed.
+
+SPEAKER 2
+I remember my friend said, welcome to the Internet. Dozens of websites await you.
+
+SPEAKER 1
+Welcome to Blockchain. Dozens of tokens. Oh, that's funny. But man, I just put the stacks chart on logarithmic and looks even better. Oh my goodness. Yeah. Give me, give me 30 cent stacks. That'd be great. But yeah, so much to. To build. Any other new developments from, from your angle.
+
+SPEAKER 2
+So the major thing we're working on today is again the SIP31 interim grant. So I'm already working with Cryptodude with the stacks AI Guild on the AI vibe coding side. But I was talking to rocky yesterday, he did the Zero Authority and DNS and so we looked back at the transaction volume, the new wallets and we're like, wow, it looks like this UX facelift really worked. So we got to thinking, what if we did? You know, we're doing AI image and video creation. That's the marketing side. We're doing vibe coding, which is creating the applications, but we haven't really addressed the UI UX experience design side of things. Right. Most of this is focusing on the back end, which are smart contracts, not the front end, which is the user experience. But some might say you win or lose based on your user experience experience. And so the SIP31 interim grant we're going to do is one where rocky teaches folks, just like we're teaching AI art and video and AI vibe coding. We're going to teach, I guess, vibe designing based on what we've learned from, you know, BNS 1 and 0 authority. And also like the relationship between how do you create an app that works with a smart contract? Even for me, that's not entirely clear.
+
+SPEAKER 1
+Awesome. That's pretty sweet. I agree. The back end, the infrastructure and everything, that's the 80% of the work that goes on behind the scenes. But that last 20% gets you all the results and being able to interface with users.
+
+SPEAKER 2
+Yeah. Paul's been fighting with front end for a month now. How goes it, Paul?
+
+SPEAKER 4
+Now he's gotta drag me in. Actually, I finished the pure JavaScript example. I made a passing grade, but it wasn't super. You know, it could be tuned a little bit. I did a lot, you know, duplications. There's a lot of things that you know to hum it in, make it tighter, but that's always something that's a work in progress. It's, you know, it doesn't. You make it once and before you actually put it in production, you're probably going to reiterate many times before you get to the what really is the most appealing and most functionally pure or as close as you can get it.
+
+SPEAKER 2
+Yeah, it's almost like you're gonna have to create an MCP for your own project.
+
+SPEAKER 4
+Pretty close. That's that. That's the one of the things on the list to have its own little, little dance with the, with its buddies, as I call it. So, and I am going to mention tractors I started today. I had a few people push me to make what my dream is and my tractor.
+
+SPEAKER 1
+So.
+
+SPEAKER 2
+So it's becoming a reality.
+
+SPEAKER 4
+Well, all I can say is, is.
+
+SPEAKER 2
+That.
+
+SPEAKER 4
+You don't want to be focused.
+
+SPEAKER 2
+On so you don't want to count your chickens. I know, but it sounds like you're getting closer to not further from.
+
+SPEAKER 4
+I'm very clear on what I want. So. And I see it and that's the first post I made. And then the rest of it's going to be about why I love tractors.
+
+SPEAKER 2
+It sounds like something that can be written by a man at any stage of his life.
+
+SPEAKER 4
+Yes, especially, especially the young guys who make a lot of money, get some land, go out, get a tractor, you can tear some stuff up, you get an immense satisfaction. You can break it, then you have to figure out how to fix it, you know, so there's a whole new learning process, process of, you know, really internal satisfaction you get. And if you really want to have the ultimate is rent a mini excavator and go start ripping trees and bushes and you know, that kind of thing up you, you will find an immense amount of just, you know, you got all this power and you can change the environment.
+
+SPEAKER 2
+Yeah, environment modification. We usually think about behavior modification, but environment modification, it's kind of like real world Minecraft.
+
+SPEAKER 3
+Exactly.
+
+SPEAKER 1
+They made Minecraft in real life.
+
+SPEAKER 3
+What?
+
+SPEAKER 2
+Yeah, tech Mahindra is making it and.
+
+SPEAKER 4
+John Deere and Kaboodu and I forget who the case and I think there's a couple others out there too.
+
+SPEAKER 1
+So that's awesome. I mean if anything, that's what video games just get me more excited to go build things in real life, you know.
+
+SPEAKER 4
+Well, the video game that goes on in my head, that's been going on from the very beginning. That's what I look at things and I see things and then it's like I want to create it. Coming to the digital world and creating and building things has been probably a very. The largest challenge of being able to do things is to how to visualize putting that all together, you know, because you can't see it, it's inside something. So it's kind of like, you know, and I figured out a way of doing that.
+
+SPEAKER 1
+So.
+
+SPEAKER 4
+And thank you for the AIs. They helped me be able to build something that I can visualize an application and then it's not Hard to focus on developing it.
+
+SPEAKER 1
+So. Yeah, that's. That's awesome. This actually reminds me, one thing I want to see built out like on Chain is I want to see someone replicate Minecraft, but on Chain, where you can take like stacks and use it to seed a world and then it auto like assigns value to each block or resource or whatever and then you can actually open a world. So to actually invite players in and they can mine resources and then trade.
+
+SPEAKER 2
+You know, I wanted to create a farm bill for stacks because if stacks is really good at generating yield, then the farmville game is all about sowing and reaping. But I see where you're going.
+
+SPEAKER 1
+Yeah, just something like that. We need to get like the PC modding communities into Blockchain and have them start building out this stuff. At least get them the infrastructure to start. That would be sweet. Well, yeah. So Paul, you're saying I'm scrolling through your page right now. So you were. You're building out this project with AI. Is that, Is that somewhere on your. On your feed?
+
+SPEAKER 4
+No, pretty much what I've done is I'm just posting. I was. The chat. The projects that I'm working on, I've got, I'm working on a master portfolio listing of, you know, MVPs, things that I've worked on. And the one I was just talking about is kind of a private one, so I can't really unless I get permission to, you know, share the link, that kind of thing. But on other stuff, I've, you know, I've got things that I normally don't show my wares because, you know, I'm. I help blockface learn how to do Python and you know, and we've done a lot of things together, we bounced a lot of stuff off each other and. But he. They're making me come out of the closet. I can't hide no more. So my start is with the tractors and then from there I will, you know, probably start introducing some of the things that I've built. A couple example stuff, just like I, I did a scraper to do the YouTube shorts and the YouTube segments that I posted on here to grab them and put them on there. Yeah. And not using an API, just using Python tools, that kind of thing.
+
+SPEAKER 1
+Awesome. Do you do most of your buildings Python?
+
+SPEAKER 4
+Yeah, I really like Python. I also do some stuff in Rusk and like I said on the JavaScript, I had no clue about JavaScript until probably six weeks ago. And then I was told that I was going to be the Train to trainers. And then it's like, okay, now I got a mission and I have to put together a training package to train the framework for the front end. And we're arguing over what the back end will be. And it will be either, you know, Rusk with Axiom and our Django and, and that, you know, the driving use of what will be used there. Because what we tried to do is have purity of no dependencies. And then the front end, we can do it with JavaScript but in the back end without having to rewrite it all in Java or JavaScript. That would be like a mission to hell. So we pretty much hopefully will convince the leadership that, you know, this is make one of those two choices, make it as secure as possible, you know, meet the criteria of the regulations, that kind of thing, and then go from there.
+
+SPEAKER 1
+Right. I mean, yeah, that's pretty exciting. Hopefully we'll get SIP31 to start taking action on funding and then that's really going to add fuel to the fire.
+
+SPEAKER 4
+I like your idea on the gaming aspect. There's a lot of components that have to be put put together that, to make that happen in the right players. You know, I know a lot of guys that, you know, dwelled off into Unity and, you know, fell into it. And then all of a sudden we're able to start creating, you know, environments like what you're talking about and, you know, like you said, getting the mod guys, getting the right people together with the interest to start something like that, and then the one to, you know, plop, put the money in people, start putting the stacks in and then let it churn and see how you evolve the ecosystem.
+
+SPEAKER 1
+So, yeah, that would, I think, like Fortnite did something too, where they started rewarding creators or builders and to like, the tune of hundreds of millions, like in a couple months. Man, if we can use Blockchain to, you know, set up attention fi, social fi, game fi, we could really build the incentive mechanisms to, I mean, build the metaverse and everything on chain. It's just a matter of time.
+
+SPEAKER 4
+Yeah, that's. That's. Blackface has got the tea. He's the driver and that. He's the catalyst. He's. He doesn't want to believe it, but he's. He's a recruiter, but he's a marketing guy, too, so.
+
+SPEAKER 1
+Is this true?
+
+SPEAKER 2
+I don't really like business. I was just forced to do it.
+
+SPEAKER 4
+Same here. And it was because of, and it was because of a hundred dollars. Okay.
+
+SPEAKER 2
+Yeah, tell them he.
+
+SPEAKER 4
+I needed help with A client that I hadn't talked with in five years that I'd gotten some renderings done for a product and he, and the guy that I'd used was no longer, you know, doing it. So I said I need someone. So I asked Blackface, hey, you got some, somebody that can do renderings? You know, I need, I've got some example ones that we did in the beginning. I got all the source files, I got everything, you know, I need to make a bid and can you help me? And he turned me on to a guy and we bid it. The guy did the work, I paid the guy. I had extra money left over. So I was going to pay, you know, block face a reward, you know, 100 bucks. And he says, oh no, no, no, keep it. Teach me Python. But right now he's into me for about 18 cents an hour maybe or more so. And it's steadily going down, so. But it's a labor of love. He's fun to teach, so.
+
+SPEAKER 1
+That'S pretty cool. Oh man, I can imagine. I mean if you look at even like stream Python classes, if that's what you're doing, like record it and get a even bigger audience now you don't.
+
+SPEAKER 4
+Want to do it the way I do it. I slash, bash, burn, break, build, break, break. And then finally get to the point of, oh, this actually working now.
+
+SPEAKER 2
+Yeah, I have all the recordings still because he taught me on spaces.
+
+SPEAKER 4
+So we talked a lot about it. Yeah, especially when I told you about, you know, looking at it but with adjectives and like sentence structure. And that's what triggered him, that's what got him to see it the way that he could visualize it. And that's the same way with me is when I'm trying to learn something new, it's trying to figure out how, you know, I'm a self taught individual. So it's how do you, how do you get it in a package so this gray matter can see it? And I like simple analogies like you know, buckets full of water or looking at the trees, you know, I like simple stuff like that. Not the academic, you know, it's, you know, some blah, blah, blah, blah, you know, that kind of thing. But I can listen to those things and then I have to fight to turn them into something that stacks you know what I mean?
+
+SPEAKER 1
+So, yep, makes sense. The classic build, fail, build, fail, build process.
+
+SPEAKER 4
+Yep, yep. It's too much fun and that's like learning git. It took me two days and I broke it because I edited git files I tried to upload files too large. Didn't know there was 100 megabit limit on it, you know, but I spent two days doing all kinds of, you know, what will this do? What will that do?
+
+SPEAKER 3
+Merging.
+
+SPEAKER 4
+And you know, I screwed up more repositories and deleted them. But at the same time I understood what those things how if you did those things and you didn't do it in the right order, you know, could cause issues and that, you know, you experience that pain, you remember those things and then your crib sheet is perfect. And then, you know, if you don't. If you don't step off the path, you know, you're good. Don't wander. Go down this path.
+
+SPEAKER 1
+So. Yep, very true. Crypto. Smith, how you doing, man? You still there?
+
+SPEAKER 2
+You got bored of us? Sorry, Paul.
+
+SPEAKER 1
+He's probably got his head into some code building.
+
+SPEAKER 4
+Yeah, we do that to rooms, don't do we block those.
+
+SPEAKER 2
+I put a Paul's video from. It's every year it gets farther and farther ago. AI from the perspective of southern gentlemen. I think it still holds up today.
+
+SPEAKER 1
+Oh, interesting. I'm checking it out now. Sweet. Yeah, I just bookmarked it to watch.
+
+SPEAKER 4
+Yeah, the. The one thing that I know that me and Blackface could always clear a space is we. We would start, you know, being nerdy and talking about things that most people. It's like, what the heck are they talking about? And then some people would hang around and then. But it would clear out most of the. Most of the space. And then we'd be alone and then we'd just talk about everything else. Yeah, it's. It's strange, but when you go geeky and technical, a lot of people just don't want to. They don't want to listen.
+
+SPEAKER 1
+That's one what I do when I want to eat alone out in public, I just start talking about crypto.
+
+SPEAKER 4
+That's a good one. Yeah. Clear the table or everybody just glasses over. Oh, he's doing it again.
+
+SPEAKER 1
+Yep.
+
+SPEAKER 2
+Yeah. The quickest way to. The quickest way to get alone time is talk about NFTs.
+
+SPEAKER 1
+Oh, for sure. Or yeah, talk about NFTs. Or all these coins that are at.
+
+SPEAKER 2
+Zero.
+
+SPEAKER 1
+Works every time.
+
+SPEAKER 4
+Yeah. The group I run in, come in, contact human forms up. I'm in the woods. Okay, so we go into town like this. This last month we've gone into town more frequent than we normal because I had to get zero turn fixed life, hit a stump, hit a metal pipe and ripped the hydraulic filter, the COVID the protector and the COVID on the filter. She ripped that and leaked all the hydraulic fluid out. So we had to come along the. Everything up on the trailer and take it in and get, you know, get it serviced, repaired, shop, you know, the annual. Because the annual usually happens in December or January because we're not cutting gas. And so, you know, we had to do that four wheeler. It's on the spritz. Something's wrong with it, with the choke, with, with the, you know, whatever. We don't, you know, we don't have a shop yet to be able to do our own mechanical work. So we don't, you know, we have to take it in. So we went in town for that and then we had to go pick up hay, you know, and whole bunch of different things. And we very rarely go into town. But the group of guys that I hang with that I, you know, go and associate with, when I start talking about cryptocurrency, it's like foreign language and it's. Oh, yeah, I've heard about that, you know, so if that tells you anything.
+
+SPEAKER 3
+So.
+
+SPEAKER 1
+Right. Yeah, the, the room to grow is like, people have heard about it. So it's. It's like the base knowledge layer is there, but like, nobody knows. It's. It's crazy. And sometimes that's all. All it takes is those IRL conversations and. And you're like, wow, there's so much upside here. Like people don't even realize the problems it solves yet.
+
+SPEAKER 3
+It's.
+
+SPEAKER 1
+It's crazy, the, the lack of awareness that that's actually out there while we're sitting in here in our, our bubbles with informed individuals.
+
+SPEAKER 2
+Well, I think there are prerequisites to awareness.
+
+SPEAKER 1
+Oh, continue.
+
+SPEAKER 2
+So the people listening to this conversation didn't just get here by accident. They got here by being nerds for almost a decade or longer. Does that make sense? At least that's true in my case. I didn't just show up today, you know, I think my first blockchain article I wrote, like the first kind of bounty I ever won was in 2016, almost 10 years ago.
+
+SPEAKER 1
+It's true. It's a long, windy road that leads to awareness and enlightenment if you go far enough.
+
+SPEAKER 2
+And now looking back, I can see that I didn't know everything I needed to know in order to do the things I wanted to do, even though I had those desires since through learning how to code through Paul, it allowed me to go from ideation to manifestation. And when I learned that I could do that, I was hooked.
+
+SPEAKER 4
+And then AI really improved.
+
+SPEAKER 2
+Yeah, yeah. Imagine, you know, he's teaching me how to code in Python. And then chatgpt drops and we're like, wait a minute. And I asked ChatGPT, hey, can I use, can I like bring you into a Python like Google Colab notebook? And it said, yeah, here's the code. I'm like, oh, ChatGPT is giving me the code to invoke itself outside of chatgpt, this is wild. And then the final thing Paul taught me is he taught me how to teach myself, which is I would have like a short program that I didn't understand and he would say, put that program into ChatGPT and have it comment every line in terms of nouns, verbs and adverbs. Nouns, verbs and adverbs. And ChatGPT started commenting all the code and explaining it. And then I realized that I should be reading code right to left, not left to right. But when I learned that shit, it was game over. Because all code is functional. It's input, process, output. The only problem is code has the output on the right hand side as the parameters. But again, this is usually why we clear the room, because we get excited about stuff like this.
+
+SPEAKER 1
+I, I heard myself, my brain just flipped inside out.
+
+SPEAKER 2
+I just heard myself talking about it. I'm like, you're a nerd, you're a loser.
+
+SPEAKER 1
+Nerd. But actually though, you're supposed to debug or like read code back right to left.
+
+SPEAKER 2
+Yeah, I don't know. I would love to hear rocky taken Paul's take on it. But if most programming is about processes or functions, where you take a collection of inputs and process them into a collection of outputs, when I look at code, the inputs are actually on the far right hand side and the actual process acting on that input is further to the left. It's like Arabic. It's like we're coding in Arabic the entire time. I remember somebody told me that Europe is being haunted by Egypt because we adopted their religion but not their culture. I'll stop there.
+
+SPEAKER 4
+The way that it's to me, it's something I dwell, dealt with in the real world and manufacturing and in control environments and having to define, you know, the functional nature of how equipment operates, rates, you have to go through all the different steps and there's logic. We're like an and gate or gate, nor those type of things. And once you start structuring things to the level of doing it that way and you keep it functional, then it's like plug and play different things. You create different groupings of functions to do Certain things.
+
+SPEAKER 3
+Things.
+
+SPEAKER 4
+So it's kind of like same way when you look at an application like a web page. Web page, really simple, is a bunch of elements that are being positioned and then addressed in a certain way. And then behind those, if you got inputs then you, that has to. Action has to be taken, has to be secure. It has to be what is the data? Is the data correct? You know, all those different things. And you just have to think it through, through in that fashion before you start with the LLM or AI and you ask it to assist you and you do it like I do it in phases. I do it in a global and then I start looking at regional and then I start looking at sectional and then I get down to the actual functions and if I have things that don't have clarity on I will say okay, just put placeholders and we will come back and address that in more detail. And it will, you know, I've constructed frameworks for applications fairly quick that way. I did an MVP for a client in about six and a half hours. That was the only piece that didn't work was the AI component that they wanted. And I made that fake. You know, I made it work. It acted like it was using AI, but it didn't so that they could demo it and then they got a million dollar contract out of that demo.
+
+SPEAKER 1
+So.
+
+SPEAKER 4
+And I got a few dollars.
+
+SPEAKER 1
+You know, that's crazy. Dang. And do you use AI to, to debug and refine or is that final process?
+
+SPEAKER 4
+Well, it depends on, depends on who, who I'm doing it for. If it's like for me. Oh heck yeah. If it's for private, you know, entities, they have, you know, their policies and restrictions. If they have a private ability AI on their cloud, I'll, you know, I'll use that to analyze what's been done for security to meet, you know, security requirements. But by no means is that the final. That just it usually gives you a good overall but it's, it's not perfect. You still have to have those like an enterprise. You still have to have third party to review everything before you attempt to bring it to production.
+
+SPEAKER 1
+Right, right.
+
+SPEAKER 4
+I think Tripp would agree with me on that.
+
+SPEAKER 1
+That makes me want to get in to start playing with Python.
+
+SPEAKER 4
+It's, it's not difficult. There's lots of stuff out there. The reason why I use Django is because Django has a lot of built in stuff it's not built for. If you do microservices and do it Python a little different way I think microservices, like with Kubernetes or with Docker, you can, you can, you can build out and address volume so you can scale a lot easier. Django, you can scale it and do certain things, but you have the cloud technology with it. Integrated with it is where you get your scalability. But I like the controls, the built in, you know, like your databases, your forms, you know, the model view controller point of view, the way it structures things. It's really good for, to me, for application development and just for testing is flask or fast API, which block face is used for just testing stuff, you know, creating ideas. And that's what I did with this little scraper for shorts and YouTube. I just told it, hey, you know, I want to use Django, I want a local environment, I want this Python, I want this. These are the functions I want you to do. And then, you know, 20 minutes later, it had it all simple. Select what you want to do, drop the URL in there, boom, it does it, and then you're able to post it up to X. And that was exercise of love.
+
+SPEAKER 1
+That's crazy.
+
+SPEAKER 4
+That's.
+
+SPEAKER 1
+There's so many things, so many ways that you could take that.
+
+SPEAKER 2
+So wait, have you started playing with any of this stuff?
+
+SPEAKER 1
+No, not yet, but I've thought about it. I took a, like a Python class in college.
+
+SPEAKER 4
+Can I. Can I give you a disclaimer? If Blockface gets you to do anything, I'm not responsible. Neither is he when he puts you on that trail and you go down that rabbit hole. We're not personally responsible for opening up that door to you. It's all on you and how far you drag yourself. Okay.
+
+SPEAKER 1
+Oh, boy. That's. That's fair. That's fair. Yeah. I only have baseline familiarity with Python, so I've never tried to actually build anything.
+
+SPEAKER 4
+But LLM will teach you as you do it. You just tell it what you want.
+
+SPEAKER 1
+Right.
+
+SPEAKER 2
+Have you ever used any of the Vibe coding tools, like lovable V0 or Bolt?
+
+SPEAKER 1
+No, I have not.
+
+SPEAKER 2
+You mind if we do a quick experiment?
+
+SPEAKER 1
+Sure, sure.
+
+SPEAKER 2
+Are you in front of a computer?
+
+SPEAKER 1
+Yes.
+
+SPEAKER 2
+Incredible. The website I'd like you to go to is called lovable l o v a lovable.
+
+SPEAKER 1
+Got it.
+
+SPEAKER 2
+This will only take maybe three minutes max.
+
+SPEAKER 1
+All right, I'm there.
+
+SPEAKER 2
+Amazing. You may have to log in, but you ever have an idea for a website you want to build, or do you have an idea for, like, the first thing you want to build? That idea that's been Rolling around the back of your head?
+
+SPEAKER 1
+Yep.
+
+SPEAKER 2
+What is that?
+
+SPEAKER 1
+Like a decentralized print on demand marketplace that's powered with NFTs.
+
+SPEAKER 2
+What would be the first NFT launch?
+
+SPEAKER 1
+Well, it could. It could be anything, but it probably. Probably be some frogs or giga pepes.
+
+SPEAKER 2
+Can you type your wish into the genie that is that little text box there? Create me. Yeah, there's a couple sentences. You don't have to get a perfect.
+
+SPEAKER 1
+Okay, so like, am I telling it to create the final thing?
+
+SPEAKER 2
+Yeah, Talk to it like you're talking to me right now, and I'm just like a magic genie. Right. Tell me exactly what you want in two to three sentences. You can talk it out loud. We can all hear you.
+
+SPEAKER 1
+Sure. Create a decentralized print on demand model marketplace that allows users to connect a leather wallet and stake their STX NFTs and earn passive income. Income. Ideally, I want an AI that takes the uploaded NFT and auto populates it onto 7 different print on demand products. And I have to walk in.
+
+SPEAKER 2
+Now, before you press enter, add this last piece. Are you ready? Okay, so the first sentence is. Let's focus on the front end theater first. Let's focus on the front end theater first.
+
+SPEAKER 1
+Got it.
+
+SPEAKER 2
+And second, use Shad cn. This is a rocky prompt. Now this is exactly what we're teaching in the UI UX thing. So use Shad cn. Shad CN is S, H, A, D, C, N.
+
+SPEAKER 1
+Okay.
+
+SPEAKER 2
+Use tailwind.
+
+SPEAKER 1
+Use tailwind.
+
+SPEAKER 2
+Yes, Tailwind. And use charts. Js1 word charts. Js shat cn tailwind. Chart shs. Now the final thing, the final sentence is. Is there a brand whose design you really like? Tesla, Apple? Could be IBM. Any brand you really like in terms of their design?
+
+SPEAKER 1
+Oh, nothing off the top of my head.
+
+SPEAKER 2
+Would you like it like, for like a logo? Just in terms of look and feel? Because right now the only thing we haven't given it is kind of the look and feel. So do you want it to be like bitcoin oriented or the purple defi gradient or. Tell me what you see in your mind's eye.
+
+SPEAKER 1
+Yeah, let's say use. Yeah. Bitcoin is the beautiful, the brand look and feel.
+
+SPEAKER 2
+All right, press enter again. Well, first of all, copy that entire prompt. I don't want you to lose it.
+
+SPEAKER 1
+Yep, I already did. Now can I get started?
+
+SPEAKER 2
+Congratulations. Thus ends your first lesson in vibe coding.
+
+SPEAKER 1
+Awesome.
+
+SPEAKER 2
+Okay, and now you just clasp your hands behind your head and put your feet up.
+
+SPEAKER 1
+Sweet. So I will check my email and then send that prompt.
+
+SPEAKER 2
+Well, you're gonna. You're gonna see the result in about 30 to 90 seconds.
+
+SPEAKER 1
+Awesome. Okay, what is.
+
+SPEAKER 2
+What does it say on the left hand side?
+
+SPEAKER 1
+It's asking me my name first.
+
+SPEAKER 2
+Oh, you're logging in.
+
+SPEAKER 1
+Yeah, I'm logging in. Yep.
+
+SPEAKER 2
+Continue.
+
+SPEAKER 1
+All right, now let's hit send. It's thinking. Interesting. Spinning up a preview.
+
+SPEAKER 2
+Can you read to us what it says?
+
+SPEAKER 1
+It says it's still thinking. Yeah. Spinning up preview. Here we go. Design approach. Bitcoin orange gives me the color, the number with a dark theme. Modern web3 interface. V1 features with like 7 print on demand mockup showcase, NFT gallery staking interface. And now it's saying, let me build this. And it's generating an image.
+
+SPEAKER 2
+Congratulations.
+
+SPEAKER 1
+Yeah, so it's got like the. That's pretty cool. Design system. V1 features and design approach are bulleted out.
+
+SPEAKER 4
+See, I told you.
+
+SPEAKER 1
+You've started. You've started something here.
+
+SPEAKER 2
+There's no way to stop it. That's the only problem.
+
+SPEAKER 4
+We, we had one guy, he went strictly. He never, you know, he started. He was in stacks and he decided we helped him and told him, and he started doing a gamification of some things and then he reached a point that, you know, he just said, I'm gonna go make bread. And he had reached his pinnacle and, you know, he, he was. He was creating applications based on his thoughts versus actually knowing the code.
+
+SPEAKER 3
+So.
+
+SPEAKER 1
+That's ridiculous. Yeah, it's still says it's building, but, man, I have so many ideas that I could at least start building out and getting a foundation for it.
+
+SPEAKER 4
+That's the key piece.
+
+SPEAKER 2
+You're rubbing a genie's belly with your fingertips on your keyboard.
+
+SPEAKER 1
+This is true. This is true. One thing like, so will this create, like actual website front ends?
+
+SPEAKER 2
+I don't want to tell you what's going to happen because I don't want to ruin the experience.
+
+SPEAKER 1
+Okay. Okay. If it does, I'm just gonna. I'm gonna start creating.
+
+SPEAKER 2
+You're never gonna talk to us.
+
+SPEAKER 4
+It's kind of like walking up to this corral and there's this horse tied up. And they say they scoot the horse over to the fence and you climb up on the fence and then you don't know whether or not that horse is going to be fun or freaky. So. But you got to take us, you know, jump off onto it.
+
+SPEAKER 1
+So.
+
+SPEAKER 2
+Jump on it. Ride it. My pony.
+
+SPEAKER 1
+This. It's happening. What's up, rocky?
+
+SPEAKER 5
+If you run out of free credits, if you check my profile, there's a screenshot of lovable with the discount code, they'll give you $5 off. Just putting it out there.
+
+SPEAKER 1
+Let's go.
+
+SPEAKER 5
+So I ran out of one month of credits after one night. So.
+
+SPEAKER 4
+That was what? That was a six hour session or something?
+
+SPEAKER 5
+Probably like ten hours, something like that.
+
+SPEAKER 3
+Okay.
+
+SPEAKER 4
+Yeah.
+
+SPEAKER 5
+And like three projects after.
+
+SPEAKER 2
+All right, dark dude, what do you see?
+
+SPEAKER 1
+Oh my God.
+
+SPEAKER 2
+That's all I wanted.
+
+SPEAKER 1
+Is exactly what I was envisioning and then more. And it gave it a name brand. Oh my God. Yeah, see you guys in three months. This is.
+
+SPEAKER 4
+I told you. I warned you.
+
+SPEAKER 1
+So anyway, it's setting. This is exactly what I told it to do.
+
+SPEAKER 4
+As I've always told, there's nothing that stops you other than you taking that from first step.
+
+SPEAKER 1
+For real. This is ridiculous.
+
+SPEAKER 2
+Well, you gotta click Publish. Click Publish in the top right hand.
+
+SPEAKER 1
+Oh yeah, I see it. Okay, Publish and blah, blah, blah, Publish. Okay, so how do the credit work? Is it like per generation, per publish? How to. How does that work?
+
+SPEAKER 5
+Lovable kind of keeps it a mystery. But typically it's like when you. So there's like at the. If you see. You see how you have your left sidebar, right? And you can type things into it, right? And then you have your view of your project. So there's a little button that says chat, right? So if you're just coming up with ideas and you're trying to get the AI to get you ideas, I recommend using chat mode so it doesn't burn your credits. So like, don't have it generate any code yet. Let's just ideate. Let's come up with ideas. Let's confirm what the AI should do. And then once you're ready, you switch out of chat mode and you're like, okay, implement. I usually say things like, like, let's plan out our feature. Here are the things that I want. Don't do anything until I say go. And then I describe a bunch of things. I might give it code examples or I. Last night or on. On Sunday, Blockface and I had an idea on a stacks app store that's now a live website. It's in beta, right? But we made that in like what, an hour and a half or something like that. And what I did was I took a, you know, those like long screenshots of a website. So you can also screenshot other websites if you like their look and feel their brand. I really liked the Hero. Hero section or the top section of the Apple App Store with their really big fonts, right? Just screenshot that I Put it in. I dragged it in and I was like, make the hero look like this. And then if you go to stacks App Store right now, I think it.
+
+SPEAKER 2
+Did a pretty good job.
+
+SPEAKER 5
+You can be the judge of that yourself.
+
+SPEAKER 2
+Wait, so, so, so rocky, how many, how many prompts do you like? What's the most amount of prompts that you've put in directly into lovable like, because when I, when I did mine.
+
+SPEAKER 3
+I had chat GPT. Like, I talked to GPT about what.
+
+SPEAKER 2
+I wanted to do and like, ironed it all out and then told them that I wanted to do it on lovable and it told me it broke. Like, it broke down the building of.
+
+SPEAKER 3
+The website into like 10 different prompts.
+
+SPEAKER 2
+Because it said that if you try to put it all at once, it'll like it. It won't, it won't work as well as if you prompt it with, like.
+
+SPEAKER 3
+The first prompt, let it build, then.
+
+SPEAKER 2
+Prompt the second prompt. It adds more stuff. Have you, have you had any experience with that?
+
+SPEAKER 5
+So some people claim that what you can do is like a super prompt. So I think it does work. So, like, for our workflow, we in software engineering, we have something called a prd. It stands for Product Requirements document, right? So what you do is you talk with something like ChatGPT5 or Claude Opus or something like something, a model that's like, really smart, right? That really understands your intent, and you can plan everything out. You have it ask you questions, you give it feedback, right? You iterate on that, and at the very end, you like, generate a PRD and it'll summarize everything into a sort of a software engineer document. Think of it like that, right? And then you can take that PRD and it's like, okay, let's work on. You can either ask it for a super prompt if you want, which you can just like, single prompt, lovable for your entire project. It sometimes gets it right, sometimes it doesn't get it right, sometimes it's in between, right? And then you can just iterate slowly. At some point, you're going to have to, like, really define that one single feature that you really want, because it does get confused, right? But that's kind of how I approach it. You can get most of it, like I would say 80, 80, 20, right? You can get 80% there, and then you kind of have to slow down for the last 20 to 10%.
+
+SPEAKER 4
+Can I interject one of the. On the complexity, that's, that's where, you know, I look at IT framework what you're going to be using, you know, as the components, the makeup of the code, all that. Then you get into actual format, your actual framework of the site, you tell it the type of framework and you tell it to create the, you know, the placeholders and then you can get into more detail as you go on along. But I find to be true is that if you try to be too complex in the, in the very first prompt. Yeah. It'll have difficulties completing the overall thing. And what I try to do is get it to a something that you can fill in state and then come back with another prompt addressing certain pieces. Like I said, I do global regional and then you know, sectional and I go and I tear down and I make my prompts based on that and I find for me that's where I find, find a lot of success and I cheat sometimes and use some of block faces formats to what he does. Because when I, you know, there are certain things I experiment with, I want to see how that works. And you know, sometimes it's really amazing and then sometimes it's really crazy. So those are experience.
+
+SPEAKER 2
+So the reason that I asked you to do that Darth is because.
+
+SPEAKER 3
+There.
+
+SPEAKER 2
+Is something that is not taught when you join stacks, stacks teaches you basically back end development but they don't really tell you anything about front end development when you're a vibe coder that's kind of some kind of invisible thing. And so rocky, if you don't mind because I notice that Darth dude, I focused on front end theater only. That's also how I conserved you credits. It's not chasing building the whole staking thing. We're just going to put all of its token brain power towards the front end and experience design UI UX. rocky, do you mind talking about what SIP 31 hour interim grant aims to do based on your BNS 10 authority experience? And I'm just going to type it, type down everything you said. We have the deadline in 8 hours and 54 minutes.
+
+SPEAKER 5
+Yeah, I mean I think if you've used applications, like blockchain applications for the last, I don't know, like two or three years, it's gotten a lot better in the last, I would say six months or so. Right. But for a long time our user experience has not been very good. Right. And so in my experience being like a front end engineer, a product builder, like for most companies like every dollar that they put in into like design they typically get $10 back in their investment.
+
+SPEAKER 1
+Right.
+
+SPEAKER 5
+And so we just what print in what? 440 million SDX.
+
+SPEAKER 2
+Right.
+
+SPEAKER 5
+Let's put some of that into design so we can like 10x our, our value and our, our chain value. Right. I'd say that's a pretty safe investment there. We need more and better designers and, and honestly, a lot of recent graduates that I know, they're having a difficult time finding jobs in the sort of traditional tradfi markets. Right. And so I, I see that as an opportunity, Right. Even when I was finding a job out of college, the joke was that you need experience to get experience.
+
+SPEAKER 2
+Right.
+
+SPEAKER 5
+And so for a lot of my mentees, I'm doing that for them and I'm helping them out, right? Like, I get them a little bit of experience, I show them how to do interviews, I teach them Star method, We do mock interviews. I pretty much all the projects I subcontract, right. So I typically find the clients, I find the project projects and most of the money, you know, minus the taxes and stuff like that, for, for accounting, I pass along to them. And typically they get paid way more per hour working with me than even their day job. Right. And that's not to say that I want them to leave or anything like that. Like I'm, I'm teaching them all to fish instead of giving them a fish. Right. And I think that makes the ecosystem, the syndicate, more valuable over time.
+
+SPEAKER 1
+I'm so stoked to get this back end built out now.
+
+SPEAKER 2
+So how does it look? How does the front end look?
+
+SPEAKER 1
+It's gorgeous. It's perfect. So if I click Publish, does that go somewhere? Can I view all published?
+
+SPEAKER 2
+So can you see the link it created? It's like something lovable. It'll be in the proper. Yeah.
+
+SPEAKER 5
+If you click Publish, there should be like a link that it created.
+
+SPEAKER 1
+Oh, here we go.
+
+SPEAKER 2
+Share the link. And now you're a developer. Welcome.
+
+SPEAKER 1
+Wow. See, like before, the barrier to entry for, you know, building stuff for me was, you know, knowing how to computer. But who needs to know how to computer when my computer knows how to computer?
+
+SPEAKER 2
+Look, you press the talk button, you don't even need to learn how to type.
+
+SPEAKER 1
+Oh my.
+
+SPEAKER 5
+You know what's even more busted?
+
+SPEAKER 3
+Lovable.
+
+SPEAKER 5
+Just added AI capabilities. I haven't tested it out myself personally, but let's say you come up with idea and it's a little hard to explain to people because it's new and novel. You can build the chatbot trained on the materials of your idea and it will explain to the user what your project's all about and explain the features and benefits why it's valuable, why they should use it, and it has access to everything Claude or OpenAI has to offer.
+
+SPEAKER 1
+That's crazy. All right, I'm sharing the link to this space.
+
+SPEAKER 2
+How do you feel?
+
+SPEAKER 1
+It's flawless. I've been wanting. I've been sitting on this idea for over a year.
+
+SPEAKER 2
+Really? Why'd you sit on it for a year?
+
+SPEAKER 4
+It's spilled out on the floor now.
+
+SPEAKER 1
+I know, right?
+
+SPEAKER 2
+Why'd you wait a year? What was in the way of building?
+
+SPEAKER 1
+Yeah, the building. Know how.
+
+SPEAKER 2
+What did you try before you mentioned Python? What other routes did you try and stop?
+
+SPEAKER 1
+I didn't actually take any buildable routes. I was just like, added a brick wall of like knowing where to even start to get it built out.
+
+SPEAKER 2
+Did you ever like, did you ever have any mentors around you? Did you go to YouTube University and tutorials or any of that?
+
+SPEAKER 1
+No, I wasn't, I wasn't that dedicated. I was more along the lines of buddying up with people like Crypto dude and Crypto Smith.
+
+SPEAKER 2
+Great place to start.
+
+SPEAKER 4
+Yeah, the, the fear of the Techno.
+
+SPEAKER 1
+Wall.
+
+SPEAKER 4
+And you just battle rammed it.
+
+SPEAKER 2
+Yeah. I have a feeling that any new subject turns adults into children because it's so scary. And I am scared every single day because every single day I have to learn something new and I don't know if I can learn it or not. Does that make sense? I hope I can learn it, but I don't know if I can learn it. But luckily, if you have a few, if you have rocky and Paul and Vance around you telling you things like, hey, you should use charts. Js. Hey, you should use tailwind. Hey, you should use BEM style css. Hey, you should use chat CN components that can get you a long way. And if you didn't say tailwind or Shat, CN or Char, that's a completely different looking website.
+
+SPEAKER 1
+Yeah, see, I wouldn't. I'm like typing into chat GPT now to give me a rundown of what those are, but I wouldn't have known to. To use those to build it out in the first place.
+
+SPEAKER 4
+The root. The root is. Is what go the question. I've had to deal with learning a lot of things digitally. And the root is, is that what. What is a website? That's the first question, gives answers and then you tell me more detail of each of these answers and what consists of these things, what is used to create these things. And it'll give you different identified items. So it's kind of like you, you're rowing and Planting the seeds and once you get all that done and you put water on it, it starts growing and then you then have the pieces. Not even being technical to understand these, these are things. That's how I got into Django and Python. I came from php, asp, web building. I was a PC kind of guy doing apps on Windows, not venturing into the, into this realm and. But all that experience leads to it. I knew there was components, there's different what I use, what looks good, what looks bad and then feedback from like the guys like you know, Blockface just said so.
+
+SPEAKER 1
+Right. Yeah, you've got. That was the first step I needed to take and now it's a. It can't be stopped.
+
+SPEAKER 2
+So this is the next step. You said that you wanted a back end for this, right? This is my strategy for the back end. You see the tweet at the top to Pete at Velar.
+
+SPEAKER 1
+Yep.
+
+SPEAKER 2
+What if you didn't have. What if we didn't have to create any of the backend because it was already created and we could plug into Valor as a service or Boost X as a service or SBTC Pay as a service. So you don't have to become a smart contract developer. You just rely on the best practices and trust Crypto dude, Kai and Hyro to, you know, make sure their contracts are secure.
+
+SPEAKER 1
+Oh, there we go. Yeah, just build on top of what's established.
+
+SPEAKER 2
+So if you see Pete responded and he tagged the devs. So that's my vision now if Valor wants to do it, great. If it's not a priority, that's fine. Someone is going to create the stacks primitives back end as a service where like crypto dude. Right. He's creating the transaction primitives and the staking primitives that we can all use so we don't have to become smart contract back end developers. If you know what the business and the user needs are, then you just focus on creating the best UI ux. Knowing that crypto dude or Kai or anyone else has already solved smart contracts and they have an incentive to make sure those are best in class in terms of security and performance and functionality.
+
+SPEAKER 1
+That's. Yeah, that's brilliant. That's just removing so many barriers to entry to get actionable products.
+
+SPEAKER 2
+So my hope is that the next. Let's say Velar has an MCP server. MCP allows us to use actual stacks documentation or Velar documentation so that you're not launching a risky contract. Right. And so if we have this Valor mcp, I won't go into too Much detail. But again, imagine being able to add another prompt saying, hey, implement the functionality using the Valor MCP server and it adds the backend. That's where I want to move. And we're very close to it.
+
+SPEAKER 1
+That's crazy. Yeah, that's so crazy. As soon as that is ready, let me know.
+
+SPEAKER 2
+Well, the thing is, it requires a coordination between two people that usually don't talk all that often, which is front end and back end. Does that make sense? Because you have the smart contract developers on one side and you have the UI UX on the other. So the idea is that we submit this interim grant so we can just have these folks interface and we can just watch them build together. Because if you and I can do that, we don't know shit about shit. Imagine what happens when rocky and Crypto dude are on a live stream. You know what I mean? They'll build a hedge fund by accident on a deorganized live stream for fun. Yeah. And they'll just post it on GitHub, you know, see you again tomorrow where we build the Federal Reserve.
+
+SPEAKER 1
+Oh, let's go. Yeah. That's insane. This. Yeah. Wow. I'm gonna be messing with this a lot. And this, like, it, even just like at the bare minimum, makes it easy to create a visual to.
+
+SPEAKER 2
+Dude, you're gonna lose so many friends. You're gonna lose so many friends over this. It's over. You're socialized.
+
+SPEAKER 1
+It's over.
+
+SPEAKER 2
+Yeah.
+
+SPEAKER 1
+Oh, dude, it was already over.
+
+SPEAKER 2
+Fred can tell you, right? Friends gone through the obstacle course of this. He's on the other end, actually. Someone from the communities developed the smart contracts for Fred's lovable solution. So he. He actually has someone in the community creating the back end for him. So great things can happen.
+
+SPEAKER 1
+Yeah. That's where I saw lovable for Fred. It was on your. Your post with Bitcoin. You that then I was like, holy crap, this guy's been building. This is a. I checked that out. I'm like, holy cow. How much have you been building towards this? But apparently it only took about five minutes.
+
+SPEAKER 2
+Yeah. And he's just an Excel developer. You know what I mean?
+
+SPEAKER 1
+Yeah. That's crazy. But yeah. Fred, while you're up here, where are you at with Bitcoin University and all that stuff?
+
+SPEAKER 2
+You know, submit for the grant guy. They're just giving away 440 million.
+
+SPEAKER 1
+Easy, right? I might do it now.
+
+SPEAKER 2
+Dude, you should do it now that.
+
+SPEAKER 1
+I've got a visual.
+
+SPEAKER 2
+There is.
+
+SPEAKER 1
+I'm gonna do it now. There is.
+
+SPEAKER 2
+What? How many, like eight hours and 42 minutes left for you to apply. They have $440 million to give away. You apply for two to five grand. Trust me, you'll. You'll get that. And that gives you enough to get the first milestones off the ground.
+
+SPEAKER 1
+Yeah. The rest of my day, I'm gonna go into ChatGPT and create a funding proposal and, you know, calculate how much I need to cover credits and. Yeah. Host a website and everything now, whatever.
+
+SPEAKER 2
+What I've noticed, what I've noticed from the sip interim grant is that most of them are text heavy. So I think if you have a competitive advantage, put a picture at the top when you submit.
+
+SPEAKER 1
+Oh, yeah, yeah. Oh, I like. I'm looking at. Yeah, this, the screenshot of this front end is going to be the selling point.
+
+SPEAKER 2
+You should tag the stacks. AI Guild and Hero and everyone else. Do you know how to create a video demo of what you've done?
+
+SPEAKER 3
+No.
+
+SPEAKER 2
+Are you on a Mac or a PC?
+
+SPEAKER 1
+PC.
+
+SPEAKER 2
+Paul, you know any way to record the screen on a PC?
+
+SPEAKER 1
+Oh, to record a screen. I can do that.
+
+SPEAKER 2
+Yeah. Because if you can record a little commercial of talking about your journey, right, from zero to this solution, right. And you share it. Tag stacks, AI Guild, tag Hero, Tack, Jack, Tech, gpsc. Peace, everyone. Then, you know, at least when, with your submission we can have like, you know, some social proof.
+
+SPEAKER 1
+There we go. Yeah, I talked about this idea to GP like a year ago so that, yeah, I could definitely do that.
+
+SPEAKER 2
+I only know the last. I only know because of the skull coin things.
+
+SPEAKER 1
+Right? Yeah, through the organizer.
+
+SPEAKER 2
+Yeah.
+
+SPEAKER 1
+Yeah. So the last piece would be where is the fancy little button that I pushed to submit a grant request or a proposal?
+
+SPEAKER 2
+It's a great question. I have to figure out the same thing. What time is it over there?
+
+SPEAKER 1
+It's 1pm for me.
+
+SPEAKER 2
+Beautiful. All right, so I don't know how late you're up, but I'm going for a walk now because I do my best thinking when I'm walking and when I get back in front of my computer, I'm going to type out everything that rocky just said in that two minute speech, right? And I'm going to show before and afters of Zero Authority. Before and after is a BNS one and show how much money was made on those platforms in the last year and say, hey, you want to make lightning strike a third time, a fourth and a fifth time, sixth time. Then let's do this missing piece for stacks, which is experience, design, ui, ux, all of the things that stacks doesn't teach, but is the final barrier to, to adoption.
+
+SPEAKER 1
+It's the final step. It's. It's the front end marketing direct to consumer. That's it.
+
+SPEAKER 2
+In a lot of ways, Steve Jobs should have never existed. You know what I'm saying? Like he should have never existed maybe. Right. Like when you think about Microsoft and IBM's dominance, who the fuck was being like, yeah, we're gonna beat them with less good hardware. What is eating nuts? But yeah, they did it. And you know who beat them? The guy who never went to college, but who off to India and dropped acid in the Himalayas. So, you know, every damn time. It's a complicated story.
+
+SPEAKER 4
+And then Ross Perot came to his aid.
+
+SPEAKER 2
+Yeah. And gave him the 20 billion. Without Ross Perot and EDS, there is no Steve Jobs.
+
+SPEAKER 1
+It's crazy. Crazy. I agree. I also, I do my best thinking while I'm in motion. So I'll have to do that and narrow down all these thoughts into a proposal and see what happens. That, that could be cool.
+
+SPEAKER 2
+Yeah. I'm probably going to be probably doing a space later as we. Because we always. We've been doing things last minute very often. But I'd like to set a premature deadline so we can enjoy this deadline and you know what I mean, I want to enjoy this deadline for this submission. We have a lot of time and I don't think we have to use a lot of words actually because you're part of the community, right? Like the, like you have the same PFP as Peptoshi, right?
+
+SPEAKER 1
+Me?
+
+SPEAKER 2
+Yeah. Is it somewhere to Peptoshis?
+
+SPEAKER 1
+No, I don't think so. Well, look, but I agree, why say lot word when few word do trick?
+
+SPEAKER 2
+Look, they're giving money away.
+
+SPEAKER 1
+Is, is this round like the grant specific, like 100k max round, or is this actually opening up well, proposals for the sip.
+
+SPEAKER 2
+So this is the beautiful part. You can go to loser to winner very quickly in this type of ecosystem. Does that make sense? And I only say that because we went from losers to winners very quickly. Not very quickly. Like we spent about six to seven months investing time with Hero and Peace and everyone else right before we submitted the grant. But you know, you've invested that time as well. But right now there's a sip, interim grant which is due today. Then there's the DORA hacks by code, which is 25 grand. Then there's D grants which is another 100,000. And that money train is not going to stop for the next five years. And the more you kind of Build up a name for yourself. Right. The more they recognize your name. These might be professionals, but they are still susceptible to nepotism. Sorry.
+
+SPEAKER 1
+I mean it's a name. It's, you know, trust. You gotta have that name recognition.
+
+SPEAKER 2
+You understand, right?
+
+SPEAKER 1
+Oh yeah.
+
+SPEAKER 2
+You know, productive social engineering. Call it what you want, right?
+
+SPEAKER 1
+Oh yeah. Every. Everything can be engineered.
+
+SPEAKER 2
+I think so. And I think you can do positive things.
+
+SPEAKER 1
+Yeah, absolutely.
+
+SPEAKER 3
+So.
+
+SPEAKER 1
+Yeah, I just did like a search. I'm trying to find the interim grants info player. Gad, is that someone relevant?
+
+SPEAKER 2
+I would have to look back. I think if you look at Heroes timeline, you'll see his submission. So what I'm going to do is model my submission after his. Just more pictures.
+
+SPEAKER 1
+Okay, gotcha. I think I found. Yeah. stacks sip31 Interim grants.
+
+SPEAKER 3
+Yes.
+
+SPEAKER 2
+And also Jack is on the treasury committee. So if you want to tag Jack, you know, that's your point of contact.
+
+SPEAKER 1
+Yep, yep. Yeah, I saw he got onto the committee as well.
+
+SPEAKER 2
+Oh yeah, yeah. So that's our chance, you know.
+
+SPEAKER 1
+Awesome. Yeah, that's a, that's super exciting. And honestly like I think a. A decentralized, you know, NFT to, you know, RWA Marketplace, you know, Print On Demand Marketplace would be pretty cool addition to build on top of Gamma. And I mean everyone can put their favorite NFTs on mugs and, and hoodies. Why not?
+
+SPEAKER 2
+Talking about unstoppable T shirts. I like it.
+
+SPEAKER 1
+Yep.
+
+SPEAKER 2
+Actually I, I know a guy who was printing 100 T shirts and I got him to do a t shirt with 300's face on it. So you know how in Dale Carnegie's book, like how to Win Friends and Influence people, he talks about how the sweetest sound to a person is their own name. I think the sweetest vision for someone is their own logo. Who doesn't love their own logo? You know?
+
+SPEAKER 1
+Exactly.
+
+SPEAKER 2
+If I started my pitch deck to you with your logo, you think you'd want to go to the next screen to see if you saw your logo again.
+
+SPEAKER 1
+Right? That's so true. Yeah. The picture's worth a thousand words and that's definitely sounds the sweetest is the visual.
+
+SPEAKER 2
+So now if you do an infographic, now you have both.
+
+SPEAKER 1
+Right. And yeah, no, you know, Tripping monkey says he's walking the, the physical prince path as well and that we could.
+
+SPEAKER 2
+Chat P R I N C.
+
+SPEAKER 1
+So, so many, so many tasty options.
+
+SPEAKER 2
+Sorry, that's the Chisholm speaking.
+
+SPEAKER 1
+Oh yeah. My mind is constantly doing backflips with wordplay.
+
+SPEAKER 2
+Now you know why Paul, did the disclaimer before we had you open up lovable. Because again, stuff like this can ruin your life in beautiful ways.
+
+SPEAKER 1
+It's such a lovable application.
+
+SPEAKER 2
+It's almost like they're the fastest growing revenue generating company on the planet.
+
+SPEAKER 1
+Is. Is that so?
+
+SPEAKER 2
+I believe so.
+
+SPEAKER 1
+That's crazy.
+
+SPEAKER 2
+And now they just added vibe coding back ends. Yesterday they added vibe coding back ends. That's why I said focus on front end, because I wanted to delineate, you know?
+
+SPEAKER 1
+Yeah, that's ridiculous.
+
+SPEAKER 2
+Only a handful of prompts away from making this work, trust me.
+
+SPEAKER 1
+Oh, I could see it already. I mean, just the level of detail that it did. Everything. Yeah, that's crazy.
+
+SPEAKER 2
+It took me a long time to create. It took me a long time to create prompts like that. Does that make sense?
+
+SPEAKER 1
+Yeah. Oh, yeah.
+
+SPEAKER 2
+Like front.
+
+SPEAKER 1
+What else? Oh, no, continue.
+
+SPEAKER 2
+Like front end theater. You know how many credits that saved you? Holy God. I've seen these AIs burn all of my credits trying to create a backend that doesn't have the code to create.
+
+SPEAKER 1
+Right. Yeah. So what. What are those keywords? Front end theater and. And chart js. Like that looks like it's a so now charting library.
+
+SPEAKER 2
+So now you're kind of like Red Dead Redemption, where you're picking up artifacts which are words which you cast like spells.
+
+SPEAKER 1
+Yeah, it's all. It's all about the keywords.
+
+SPEAKER 2
+That's right. So the last thing I'll share with you is what if there were two other sites where you could do the same prompt and see variations? So, okay, I am going to share with you. I've been working on a roadmap for five coders to try to reverse engineer how I got here. Just modernized because, you know, starting three years ago, we didn't have any of this. So I just posted roadmap. Sh. Vibe view.
+
+SPEAKER 1
+Okay.
+
+SPEAKER 2
+And you'll see what's next.
+
+SPEAKER 1
+You see you just posted it. Or am I supposedly supposed to be.
+
+SPEAKER 2
+Do you see the topic?
+
+SPEAKER 1
+Oh, yep. Interesting. Oh, cool. Okay. Yeah, you got Meshi in here as.
+
+SPEAKER 2
+Well because of gpsc.
+
+SPEAKER 1
+Right.
+
+SPEAKER 2
+So it's not that you have to go through the full thing, it's just that roadmap is there because I went through my roadmap over the course of 30 years because I'm in my 40s now. Does that make sense? So I encountered HTML when I was like fucking 14 years old. So education is not just like, okay, I'm going to start on this day and end on this day. You can kind of meander around that roadmap as you see fit. But that's kind of the future if you want to continue down the path.
+
+SPEAKER 1
+Yep, gotcha. I see it. That is pretty sweet. Yeah, you just. You definitely started something.
+
+SPEAKER 2
+So just for my benefit, as we're doing this sip, I'm going to ask you five questions because I'm trying to learn how to become better at doing this, which is what did you like about our interaction today? What didn't you like? What would you change and how would you change it? What did you like? What didn't you like? What would you change and how would you change it? Because I'm really trying to get better at this.
+
+SPEAKER 1
+Okay. Well, I like, first of all, like, you. You gave me a prompt and a website so I could see, like, a physical example, and it was concise prompt. So I got a visual representation and I got to press the button and see the result. So I definitely like that. And then what was it? What didn't. I didn't like? And what would I change?
+
+SPEAKER 2
+And how would you change it?
+
+SPEAKER 1
+And how would you change it? Nothing has come across that I didn't like. I like it at this point. I mean. Yeah, I mean, that was simple. You. I just opened up a new tab and you, you know, you guided me on what to type, and I got to see the result. And, yeah, now I can start kind of delving into it to see how I can expand on the idea.
+
+SPEAKER 2
+Do you think this is useful? Do you think this is a waste of time, what we did here today?
+
+SPEAKER 1
+Totally, totally useful.
+
+SPEAKER 2
+We started this with an idea, and it's an idea that you've been thinking about for a year now. How much closer are you to manifesting that idea into reality?
+
+SPEAKER 1
+80%.
+
+SPEAKER 2
+Really? How long?
+
+SPEAKER 1
+I took the first step.
+
+SPEAKER 2
+How long did that 80% take you?
+
+SPEAKER 1
+10 minutes.
+
+SPEAKER 2
+10 minutes?
+
+SPEAKER 1
+Yeah. Yeah. I mean, I'm 80% closer to executing this because the barrier to entry is broken down. And now it's, you know, I've got a tangible. A pitch deck at least. Yeah. And now I can take this and. And run with it. And, like, I already got trippin monkey hopped in my DMs just because he saw the visual. So this started everything rolling.
+
+SPEAKER 2
+Oh, so now you've. So you want to attract a smart contract developer.
+
+SPEAKER 1
+Absolutely.
+
+SPEAKER 2
+So I think that's the power of the community as well. Does that make sense? You don't need to learn everything. I think you just need to have the right vibes and the right people will just hit you up if you do Something. Not if you talk about something. If you do something, it's very powerful.
+
+SPEAKER 1
+Exactly. And yeah, and I'm still like of the, of the stance that I would rather outsource expertise to someone who's been doing it for 10, 20 years than, you know, like I know I can learn anything with AI, but it's still going to take a, I don't know, maybe a year or two learning curve and then, you know, development, refinement, whatever. I would, I would default to preferring to networking and delegating expertise.
+
+SPEAKER 2
+You know, if you want, you can ask lovable to build out the rest of the pages in the menu. Hey, lovable. Build out the other pages in the menu. Marketplace, Steak products and analytics.
+
+SPEAKER 1
+It's as simple as that. You just ask it to build it out.
+
+SPEAKER 2
+That's it. Hey, lovable. Great job. I noticed there are four top menu items. Marketplace, Steak products and Analytics. Mind building out those page and connecting it all up.
+
+SPEAKER 1
+Marketplace, stake products and analytics. Mind building out those pages and.
+
+SPEAKER 2
+Why did you say anything? Wiring it all up.
+
+SPEAKER 1
+And wiring it all up.
+
+SPEAKER 2
+Let's optimize for visual flare and interactivity. That's optimized for visual flare and interactivity.
+
+SPEAKER 1
+Got it. Any other sneaky keywords?
+
+SPEAKER 2
+Leverage best practices from the top defi exchanges and NFT platforms.
+
+SPEAKER 1
+Excellent. It is thinking. Yeah, that is, it's. It's perfect for, for the first rendition from like a three sentence prompt. It's. It's ridiculous how much it built out. You know, even though it's just the visual. But now if it can actually connect all the wires like the second prompt. That is crazy.
+
+SPEAKER 4
+Now beyond this there's additional field apply and I don't want to pop the bubble right now, but you. You're leaving. You will leave this bubble to discover there's a greater one that you have to enter into. So get this to work this to demonstrate and then you know, triple monkey with will pretty much explain going beyond just the prototype or the MDP are a production capable but not necessarily production ready, if you know what I mean.
+
+SPEAKER 1
+So.
+
+SPEAKER 4
+But creating it starts and will end up there.
+
+SPEAKER 1
+Right? Yeah, because right now I don't even know what I don't know. So that bubble will have to be popped soon.
+
+SPEAKER 4
+Yeah, that'll come after all the, all the bells and whistles are put together. You assemble the car and nobody knows whether or not it's going to drive until you actually crank it up and drive it off the line.
+
+SPEAKER 1
+So. Exactly. Exactly. We do have cyborg up here. We haven't given you A chance to speak yet, man. What's up?
+
+SPEAKER 3
+Yeah, can you guys hear me? Gm. Yeah, gm, DM Block Face and Paul. I've had fun listening to you guys and actually I've been following up and you know, I just also shipped a marketplace for okay, convert tax tokens to gift cards and vice versa with a secure platform. So like, you know, from like joining the space, I followed your instructions and you know, built out an idea that I've been like thinking about for a while and then. Yeah, it's actually quite amazing what like.
+
+SPEAKER 2
+AI can do nowadays.
+
+SPEAKER 3
+It's, it's crazy.
+
+SPEAKER 2
+I, I don't know if I should.
+
+SPEAKER 3
+Add the link to this space for you guys to see what I just built out, but yeah, it's, it's very like, it's very interesting. It's very interesting.
+
+SPEAKER 1
+Okay. I was over there clicking around to see what it did. Looks like it gave me a bunch of multicolored back ends with code.
+
+SPEAKER 2
+Yeah, you'll. You'll hear a little, you'll hear a sound when it's done.
+
+SPEAKER 1
+Oh, gotcha. It also says no free credits remaining today. Stopped thinking.
+
+SPEAKER 2
+Oh, see, that's what we ran into. And that's why rocky signed up.
+
+SPEAKER 1
+Yep. So yeah, I have to explore these upgrade options.
+
+SPEAKER 2
+But before you do that, look at the other elements on that roadmap. You Notice how there's bolt.new and v0.dev.
+
+SPEAKER 1
+Yes.
+
+SPEAKER 2
+Try those now with the same prompt.
+
+SPEAKER 1
+Okay.
+
+SPEAKER 2
+And just to get some more prototypes under your belt. Right. Some people like lovable, some like Vercel, some like Bolt on you. It's kind of a personality ergonomics thing, like finding your comfy chair. So try those as well, just to get your feet wet.
+
+SPEAKER 1
+Gotcha. Yeah. And then kind of compare and contrast.
+
+SPEAKER 2
+Now here's the crazy thing. Now that you're considering submitting for a grant, have you ever heard of Gamma app.
+
+SPEAKER 1
+I believe. Is that like associated with the marketplace?
+
+SPEAKER 2
+No, this is, this is turning prompts into pitch decks or the actual ideas.
+
+SPEAKER 4
+Into incredibly great looking presentations.
+
+SPEAKER 1
+Oh, man.
+
+SPEAKER 2
+So what you would do is use Chat GPT to get a description of your business. Does that make sense? Right?
+
+SPEAKER 1
+Yeah.
+
+SPEAKER 2
+And just ask it to create a pitch deck that just the text for a pitch deck. So sorry, let me say this again, Ash. Chatgpt to give you the text for Pitch Deck, I'm going to take that text into Gamma app and you're going to see that text magically transformed into a pitch. Pitch deck.
+
+SPEAKER 1
+Yeah, that. Yeah, you can just go all the way around and one AI into the next, into the next and they each specialize is. It's ridiculous. Yeah, that might be, that might be happening today. Crazy. Yeah, but this is, this is ridiculous. Like when I talk about like the next five years are going to be absolutely unrecognizable just based off of the rate of. Yeah. Improvement of development of everything.
+
+SPEAKER 2
+Okay.
+
+SPEAKER 1
+We're going to be.
+
+SPEAKER 4
+I like the accelerated learning because you can sit with it and have it tell you everything of how to do something and you can retain that information, redo it again, give you practical application to, to do things to do and the snowball just goes further, further, gets bigger, bigger. And that's the thing that I like about it because for a self learner, it's, it's like, you know, I don't know, methamphetamines on steroids. I mean just, it's like, feed me, feed me, feed me, you know?
+
+SPEAKER 1
+Yeah. I mean we can create so many just positive feedback loops and flywheels until it, it becomes fully autonomous. And we've got Jarvis on our phone saying, hey, I want to build this front end, back end. Nope, edit that, change the theme. It's, it's all going to voice eventually. And then all that will be left will be the builders who can actually prompt and ask the right questions. And that will be the ultimate value for at least the human side of creativity.
+
+SPEAKER 4
+Yes. Now it does help in the real world too because I love taking pictures and putting them into Grok and say, hey, I got this, here's the nameplate and I need to know everything about this. And I'm having this problem with it. Go out there and find everything you can on the Internet. And that kind of helps me solve this problem, how to troubleshoot it too. And it's amazing the information you get back. It's kick ass. That's all I can say.
+
+SPEAKER 1
+Yeah, it's, it's phenomenal. So yeah, I like how you, you look at these things and it's like, how can you not be bullish? It's the inevitability of crypto and AI is just undenia. Awesome. Yeah, we'll, we'll send it back around the table. Anybody have a, any final thoughts or ideas to share?
+
+SPEAKER 4
+I'm fixing to jump. I gotta go do some things and I just enjoyed it. Thank you for letting me speak. Don't let Brock Face give you another anchor because you'll go deeper and deeper. That's all I can say.
+
+SPEAKER 1
+Yeah, thanks guys for coming up and chatting. This was a. You Know an hour and a half space that I planned that went three hours. So it's, it's a win.
+
+SPEAKER 2
+The website looks gorgeous. Holy God, it's so clean.
+
+SPEAKER 1
+It is, it's fantastic.
+
+SPEAKER 2
+That was better than I was thinking. I'll be honest with you. Like I. Because you don't know what to expect, right? I just gave you some words. I don't know what that's going to turn into.
+
+SPEAKER 1
+Yeah, yeah. It's ridiculous.
+
+SPEAKER 2
+It's so clean, dude.
+
+SPEAKER 1
+Yeah, check that out. I got $2.4 million in rewards paid on my website, guys. Proof of concept right there.
+
+SPEAKER 2
+And that's pre the prohibition being lifted. What do you think is going to happen after?
+
+SPEAKER 1
+Oh man.
+
+SPEAKER 2
+So the last thing I want to ask you is for anyone listening to this recording, you know, for the four people that are listening to this in the future. Future, future, future. What would you tell them if, what would you tell yourself before you join this space about vive code trading solutions?
+
+SPEAKER 1
+I would say you don't even know what you don't know. So ask questions and then. Yeah, that would, that, that's it.
+
+SPEAKER 2
+Now finally, can you show me the project? What are you building? Yeah, I don't even. I can see it, but I'd love to hear it from you because you've been thinking about this for a year. So the idea has been with you for a while. You just needed to know, know which key to put in which, you know, door.
+
+SPEAKER 1
+Exactly. So it's, the idea is it's twofold. It's one, we need a replacement for Etsy without censorship. And two, why not earn passive income on your NFTs by staking them and connecting real world value in the form of merch to your favorite digital collectibles. So I've got 300 frog NFTs and I want one of them on a coffee mug. And if other people in the industry also think that my certain top tier NFTs or, or whatever fits their aesthetic and they want to it on a mousepad, a hoodie or a, a coffee mug, they can do that and I can stake with blockchain and earn passive income from a decentralized marketplace just by uploading my NFT and seeing if it gets sales, there's no, there's no downside. And you can start cash flowing off of proof of ownership from your, your digital assets.
+
+SPEAKER 2
+How far, how far are you away from making that dream a reality?
+
+SPEAKER 1
+Right now I am closer than ever, approximately.
+
+SPEAKER 2
+Do you know what the next step is? To get up, to get 50 closer sometimes the last 20% can be, you know, a slog.
+
+SPEAKER 1
+Oh yeah, it's always the hardest. Well, I've since, since turning these words into a visual representation of my idea. I have already received a DM with a person associate who's got the skill set to build the back end. So all I have to do is follow up on that conversation and that's the next step.
+
+SPEAKER 2
+Well, can you say that part again that I didn't expect?
+
+SPEAKER 1
+All I have to do is follow up with the expertise that just slid into my DMs and follow up with a conversation and ask more questions.
+
+SPEAKER 2
+What does that mean for the business that you're thinking about.
+
+SPEAKER 1
+Inevitability? Well, that's what it means.
+
+SPEAKER 2
+Really?
+
+SPEAKER 1
+Yeah. Yeah. And now, now I've got three different anchor points at least in terms of AI chatbots that I can ask and iterate and get answers to and feed into each other and to further flesh out the idea while also building the connection with the someone who can build a backend.
+
+SPEAKER 2
+There are a lot of back end developers that are looking for people like you who know the business, know the customers and will do the front end part.
+
+SPEAKER 1
+Interesting. Tell me more.
+
+SPEAKER 2
+Some people, they want to interact with the customer. They'd rather solve a different part of the problem on a team rather than being a one person digital mercenary. So there's a lot of people on stacks that would rather have someone do all of the go to market kissing of the babies, deciding what the front end should be part of the business and they're very happy to partner with someone who's great at go to market.
+
+SPEAKER 1
+Excellent. That's awesome. Because I prefer sitting in the idea and presentation niche or area where I can articulate ideas and combined with visuals to communicate use cases and then find a partner who can build out the utility to enable such use cases.
+
+SPEAKER 2
+For some people that sounds like learning smart contracts. You know, some people just like diplomat the problem.
+
+SPEAKER 1
+Awesome. Decentralization for the win.
+
+SPEAKER 2
+Making the band.
+
+SPEAKER 1
+Exactly. Yeah. Making the dream team. This is a huge step.
+
+SPEAKER 2
+Congratulations. And I'm sorry to hear that this is not necessarily because you don't know how this is going to change your life. Really and truly I didn't.
+
+SPEAKER 1
+Truly, Yeah. I have no idea how much work is ahead of me and it's exciting.
+
+SPEAKER 2
+The opportunity for adventure is an opportunity to study the way of things up close and personal. That's what I'm enjoying. The adventure and exploration to know the way of things up close and personal. Personal. Because if there is a God, then maybe that's the best way to experience it.
+
+SPEAKER 1
+Exactly. There's nothing more exciting titillating than knowing that there's an unknown around the bend on. On whatever adventure you partake.
+
+SPEAKER 2
+Yeah. It's kind of like uncertainty maxing.
+
+SPEAKER 1
+Exactly. I mean, I see like I think we talked about this earlier in the space. Something about people are afraid of what they don't know, of the unknown.
+
+SPEAKER 2
+Worse, they think it's an enemy actually. Because when you encounter a stimulus, you have to decide whether to eat it, fight it, or it or in cloth it's anything.
+
+SPEAKER 1
+That's so true. And like little do they know that that fear or. Yeah, anxiety can just be flipped into excitement.
+
+SPEAKER 2
+Now the only adventure, the only downside to this is the more we outsource our thinking to a machine, the more our brain slowly atrophies over time. So one of the things I'm personally doing is actually still learning how to code because just a machine. Just because a machine can do it doesn't mean we shouldn't learn how to do it. Does that make sense? And so I'm keeping my cognitive skills sharp by learning leetcode, learning data structures, learning patterns and algorithms. Because I know the more I get a car to drive from me, the more I get A's to tell me where to go. I'm going to atrophy my GPS in.
+
+SPEAKER 4
+My brain monads.
+
+SPEAKER 2
+Moa.
+
+SPEAKER 1
+Right. I would actually, I'd actually counter that with saying did we outsource the thinking or outsource the doing? Because we did a lot of thinking in this space.
+
+SPEAKER 2
+Yeah, I think somebody called it managing your complexity budget. With AI, I'm not working any less, I'm actually sleeping less than I ever have in the past five years. And I'm also going on more walks. So it, what it's fundamentally allowing our team to do is what they call job stacking. So anyone that I work with, they're actually doing three to seven jobs right now.
+
+SPEAKER 1
+Exactly. Yeah. It's just AI is the ultimate enabler.
+
+SPEAKER 2
+Yeah. The kids are calling it a force multiplier. I learned that from a guy that Paul's working with.
+
+SPEAKER 1
+I like those.
+
+SPEAKER 2
+But imagine you can fucking go from you being the business guy, someone else being the backend, and you have a business. What the hell? That's fucked. But that's here. But that's fucked too, you know what I'm saying?
+
+SPEAKER 4
+It's kind of fucked up. Then all the real world interfaces come into play. Setting up bank accounts, budgets, dealing with accountants, attorneys, you know, terms of service contracts. The real world still slaps you.
+
+SPEAKER 1
+You mean closing bank accounts?
+
+SPEAKER 4
+Real world.
+
+SPEAKER 2
+I have the feeling that Darth dude has that salt in his head.
+
+SPEAKER 1
+The salt.
+
+SPEAKER 2
+And if you don't. If you need help on that, by the way, Paul is the person that makes sure that we're on the right side.
+
+SPEAKER 1
+Gotcha. Gotcha. Very nice.
+
+SPEAKER 4
+Yeah, it's really interesting when I tell people, they give me their money to hold so they don't spend it unwisely and I can be hard on them and say no. So it's an interesting concept. Yeah.
+
+SPEAKER 2
+It's like having a cdo. A chief dominatrix officer can't spend it. Stop it. Canceling that subscription. But I. Was he canceling it? Are you sure?
+
+SPEAKER 4
+Are you sure? Do we really need it? Yeah, yeah. And then we go through. Do we need this one? I hadn't used this one a while. I need to get rid of it. Replace it with this one.
+
+SPEAKER 1
+Okay.
+
+SPEAKER 4
+Okay, we can do that.
+
+SPEAKER 1
+Oh, man. It's true.
+
+SPEAKER 4
+I wear three hats and I've got. Actually if I count all the other businesses I do, I got five hats and. But three of them are pretty much active developing and one's fruited and paid some money. Another's fruited and paid with more experience. But we're. We're scratching on that edge to bring in a lot more money. And then the other one is kind of like if it funds, the other two are going to suffer. And then my personal stuff, I've got other individuals that are making that churn, so I don't have to really participate. I just log into QuickBooks and see where the money's going, how much, you know, checking the status of everything. But I don't control, you know, pretty much they keep dibs on the control. I'm just an observer to make sure they don't go out and buy Lamborghinis and, you know, crazy things. You know what I mean?
+
+SPEAKER 1
+So. Right. Yeah. Keeping it to the essentials.
+
+SPEAKER 4
+Yes. Until you hit a certain cash point. Then you can go and get some of those tools.
+
+SPEAKER 1
+Because it's. Yeah, it's just toys. You gotta be able to have fun without them first. Well, this has been pretty sweet, guys. I have a lot of things to go and process on my. On my walk and. And get hammering books. Blockface. Did you say you're going to get after it again later today? Oh, did we lose him?
+
+SPEAKER 4
+Yeah, he's. He may be. He's there or not there. But anyway, yeah, now I gotta go. I just wanted to see the end. It was good to be able to help, and that's so we like to do. So.
+
+SPEAKER 1
+Yeah. This was awesome. Thanks for coming on and adding value. I appreciate it. Yeah. And then shout out to Stephen as well, for hanging out with us and listening.
+
+SPEAKER 4
+Stephen, always. He's a. He's a quiet fella. He doesn't get up and get involved every once in a while. He's a good guy. All right. Be safe.
+
+SPEAKER 1
+Awesome.
+
+SPEAKER 4
+I'm out of here.
+
+SPEAKER 1
+All right, thanks. You guys. Have a good sa.

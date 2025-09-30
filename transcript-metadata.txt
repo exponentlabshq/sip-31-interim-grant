@@ -1,0 +1,61 @@
+Entity Detection
+location
+
+birds, Texas, America, America, America, America, America, Europe, Waterloo, Waterloo, New York City, California, New York City, New York, Vegas, Europe, Egypt, India, Himalayas
+time
+
+8pm, 7, 7:00am My time, midnight, 1pm
+person_name
+
+Ellie, Ronald, Crypto Smith, Roscoe, Kramer, Erling, Mooney, Muneeb, Jazz, rocky, rocky, Adam Smith, Blockface, Wozniak, Steve Jobs, Tripp, Trip, Crypto Smith, Crypto Smith, rocky, Ian, Grant Cardone, Dan, Avery Shape, rocky, rocky, Paul, Paul, Paul, Blackface, Smith, Paul, Paul, Blackface, Paul, Paul, rocky, Paul, Tripp, rocky, rocky, Darth, rocky, Darth, rocky, Claude, rocky, Paul, Vance, Pete, Kai, Hyro, Pete, Kai, rocky, Crypto, Fred, Fred, Fred, Fred, Paul, Jack, rocky, Steve Jobs, Ross Perot, Ross Perot, Steve Jobs, Gad, Jack, Jack, Dale Carnegie, Chisholm, Paul, Meshi, trippin mon, lovable, lovable, lovable, gm, Block Face, Paul, rocky, Ash, Jarvis, Brock Face, Paul, Darth, Paul, Stephen, Stephen
+organization
+
+STX, Vela, STX, STX, Velar, Aster, Velar, Boost X, Nintendo, Nintendo, Nintendo, Hong Funk, Rex Target, BNS, Aptosis, stacks, YouTube, YouTube, YouTube, YouTube, YouTube, HERO, HERO, Amazon, Amazon, Hero, Gaia, Stack Storage, Gaia Storage, Apple, Apple, Apple, Amazon, Apple, appark, Boost, Ivy League, Xero, Facebook, Robinhood, Airbnb, Afcox, Airbnb, Resort Maker, Trinity, Facebook, Facebook, Facebook, Facebook, Apple, Apple, Cryptodude, stacks AI Guild, tech Mahindra, John Deere, Kaboodu, blockface, SIP31, Fortnite, Blackface, Google, Tesla, Apple, IBM, lovable, Lov, Blockface, Apple, GPT, SIP, OpenAI, YouTube University, Blockface, Velar, Crypto dude, Valor, Velar, Velar, Valor, Federal Reserve, Bitcoin University, Hero, stacks, AI Guild, Hero, gpsc, GP, Microsoft, IBM, EDS, Peptoshi, Peptoshis, Hero and Peace, D, treasury committee, vive code trading solutions, Etsy
+money_amount
+
+60 cents, 45 cents, 8 billion dollar, litecoin, stacks, 8 billion, stacks, dollar, STX, $0.50, STX, penny, point one six, 0.0012, 0.00, 0.001696, 120, SBTC, bitcoin, dcas, 25k, 100k, 100k, 25k, 100k, NFT, thousand bucks, crypto dude BTC, 100 bucks, bitcoin, fun, fun maxi btc, coins, velar, FLR, Bitcoin, 16k, 116k, Bitcoin, Bitcoin, filecoin, filecoin, bitcoin, six figs, btcs, Bitcoin, 16k, 116k, dot BTCs, dollar, 100,000, three dollar, BTC, 50 grand, hundreds of thousands of dollars, bitcoin, Bitcoin, bitcoin, bitcoin, bitcoin, bitcoin, Bitcoin, bitcoin, 40 million, Bitcoin, $200 million, altcoins, APT, Aptos, Ethereum, Aptos, stablecoin, Stable coin, Facebook coin, coin, stablecoins, stable coins, bitcoin, Bitcoin, bitcoin, billions of dollars, billion dollars, $4,000, Bitcoin, Bitcoin, bitcoin, Bitcoin, 10 cents, $10, dollar, 50 cents, 30 cent, hundreds of millions, hundred dollars, 100 bucks, 18 cents, NFTs, coins, Zero, million dollar, few dollars, NFTs, NFT, giga pepes, STX NFTs, NFT, bitcoin, Bitcoin, Bitcoin, $5, dollar, $10, 440 million, Bitcoin, 440 million, $440 million, two to five grand, skull coin, 20 billion, 100k, 25 grand, 100,000, $2.4 million, frog NFTs, NFTs, NFT
+date_interval
+
+October, October, October, September, September, October, May, early 2024, 2023, 2030, 2006, December, January, 2016
+duration
+
+two hours, few, five years, one month, one year, 30 to 60 days, 10 years, five minutes, 30 minutes, three months, 20 years, three to 10 years, 20 years, six weeks, five years, an hour, two days, two days, 10 years, six and a half hours, 20 minutes, three minutes, 30 to 90 seconds, one month, one night, six hour, ten hours, three months, 31 hour, 8 hours and 54 minutes, two or three years, six months, hour, a year, a year, a year, five minutes, eight hours and 42 minutes, two minute, six to seven months, five years, three years, 30 years, a year, 10 minutes, 10 minutes, 10, 20 years, a year or two, five years, an hour and, half, three hours, a year, five years
+drug
+
+caffeine, meth, methamphetamines, steroids
+occupation
+
+streamers, influencers, streamers, app developers, pro gamers, advertiser, creators, creators, creators, developers, scammers, spammers, handlers, CEOs, CEOs, CEOs, homeless, homeless, UI UX designer, founder, business founders, teacher, head of distributed backend engineering, trainers, mod guys, creators, builders, driver, recruiter, marketing guy, programming, software engineering, software engineer, IT, vibe coder, front end engineer, product builder, designers, accounting, developer, mentors, smart contract developer, devs, smart contract back end developers, smart contract developers, UX, Excel developer, organizer, engineering, player, prince, coders, contract developer, builders, back end developers, digital mercenary, diplomat, business guy, accountants, attorneys, cdo, chief dominatrix officer
+url
+
+discord.com, x dot com, Resort maker dot com, Resort maker dot com, Resort maker dot com
+marital_status
+
+wife, married
+nationality
+
+gypsies, Colombian, southern
+date
+
+October 15th
+event
+
+RWA
+zodiac_sign
+
+Libra
+gender_sexuality
+
+female
+person_age
+
+boomers, 40s, 14
+medical_condition
+
+COVID, COVID, anxiety
+language
+
+Arabic, Arabic
+username
+
+Blockface, Crypto dude, Crypto Smith
