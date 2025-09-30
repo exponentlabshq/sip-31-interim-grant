@@ -1,3 +1,5 @@
+![SIP-31 Interim Grant](screenshot-sip-31-interim-grant.png)
+
 ## 🙂 Applicant Information                
 - **Email:** contact@exponentlabs.llc
 - **Twitter:** @exponentlabshq
