@@ -56,77 +56,18 @@ Each week focuses on one application with designer mentees working alongside Roc
 
 **Milestones:**
 
-**Week 1:** BoostX (Features and integrations platform)
-- Designer mentees conduct audit under Rocky's guidance
-- Mentees create experience design prototypes
-- UI/UX redesign mockups completed by mentee team
-- Live review session: mentees present work to builders and community
-- Implementation guide published
-- 1-on-1 mentorship sessions on audit methodology
-- Focus: Fast, consistent user flows that compete with top ecosystems
+Each week includes: Design audit by mentees, experience design prototypes, UI/UX redesign mockups, live review session (mentees present), implementation guide, and 1-on-1 mentorship.
 
-**Week 2:** Deorganized Media (Content platform)
-- Designer mentees conduct audit under Rocky's guidance
-- Mentees create experience design prototypes
-- UI/UX redesign mockups completed by mentee team
-- Live review session: mentees present work to builders and community
-- Implementation guide published
-- 1-on-1 mentorship sessions on prototyping techniques
-- Focus: User engagement patterns for Web3 content platforms
-
-**Week 3:** Velar (Leading DEX driving DeFi TVL growth)
-- Designer mentees conduct audit under Rocky's guidance
-- Mentees create experience design prototypes
-- UI/UX redesign mockups completed by mentee team
-- Live review session: mentees present work to builders and community
-- Implementation guide published
-- 1-on-1 mentorship sessions on DeFi UX patterns
-- Focus: Low-cost transaction flows and liquidity interfaces for DeFi growth
-
-**Week 4:** StackingDAO (Liquid staking protocol for Bitcoin yield)
-- Designer mentees conduct audit under Rocky's guidance
-- Mentees create experience design prototypes
-- UI/UX redesign mockups completed by mentee team
-- Live review session: mentees present work to builders and community
-- Implementation guide published
-- 1-on-1 mentorship sessions on staking interface design
-- Focus: Simplified stacking experience aligned with protocol improvements
-
-**Week 5:** Hermetica (Bitcoin-backed stablecoin—USDh)
-- Designer mentees conduct audit under Rocky's guidance
-- Mentees create experience design prototypes
-- UI/UX redesign mockups completed by mentee team
-- Live review session: mentees present work to builders and community
-- Implementation guide published
-- 1-on-1 mentorship sessions on financial app UX
-- Focus: Stablecoin liquidity flows critical for Stacks DeFi growth
-
-**Week 6:** Boom Wallet (Stacks wallet for user growth)
-- Designer mentees conduct audit under Rocky's guidance
-- Mentees create experience design prototypes
-- UI/UX redesign mockups completed by mentee team
-- Live review session: mentees present work to builders and community
-- Implementation guide published
-- 1-on-1 mentorship sessions on wallet UX and security design
-- Focus: Wallet integrations and onboarding flows for millions of new users
-
-**Week 7:** Faktory.fun (NFT and token launchpad for builder TGEs)
-- Designer mentees conduct audit under Rocky's guidance
-- Mentees create experience design prototypes
-- UI/UX redesign mockups completed by mentee team
-- Live review session: mentees present work to builders and community
-- Implementation guide published
-- 1-on-1 mentorship sessions on NFT marketplace design
-- Focus: Token launch UX supporting builders' TGE readiness
-
-**Week 8:** Skullcoin (Community token driving user engagement)
-- Designer mentees conduct audit under Rocky's guidance
-- Mentees create experience design prototypes
-- UI/UX redesign mockups completed by mentee team
-- Live review session: mentees present work to builders and community
-- Implementation guide published
-- 1-on-1 mentorship sessions on community-driven design
-- Focus: Community engagement patterns for ecosystem network effects
+| Week | Project | Type | Mentorship Focus | Strategic Focus |
+|------|---------|------|------------------|-----------------|
+| 1 | BoostX | Features & integrations | Audit methodology | Fast, consistent user flows that compete with top ecosystems |
+| 2 | Deorganized Media | Content platform | Prototyping techniques | User engagement patterns for Web3 content platforms |
+| 3 | Velar | Leading DEX | DeFi UX patterns | Low-cost transaction flows & liquidity interfaces for DeFi TVL growth |
+| 4 | StackingDAO | Liquid staking protocol | Staking interface design | Simplified stacking experience & Bitcoin yield |
+| 5 | Hermetica | Bitcoin-backed stablecoin (USDh) | Financial app UX | Stablecoin liquidity flows critical for Stacks DeFi growth |
+| 6 | Boom Wallet | Stacks wallet | Wallet UX & security design | Wallet integrations & onboarding flows for millions of new users |
+| 7 | Faktory.fun | NFT & token launchpad | NFT marketplace design | Token launch UX supporting builders' TGE readiness |
+| 8 | Skullcoin | Community token | Community-driven design | Community engagement patterns for ecosystem network effects |
 
 **Alternative candidates:** STXTools and other high-impact Stacks applications may be considered based on project availability and community input.
 
