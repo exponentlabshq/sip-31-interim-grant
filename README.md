@@ -23,11 +23,11 @@ Rocky, the designer behind Zero Authority and BNS One, will conduct **experience
 1. **Velar** - Leading DEX
 2. **StackingDAO** - Liquid staking protocol  
 3. **Hermetica** - Bitcoin-backed stablecoin
-4. **Project 4** - Selected from top apps by metrics
-5. **Project 5** - Selected from top apps by metrics
-6. **Project 6** - Selected from top apps by metrics
-7. **Project 7** - Selected from top apps by metrics
-8. **Project 8** - Selected from top apps by metrics
+4. **BoostX** - Features and integrations
+5. **Boom Wallet** - Stacks wallet
+6. **Faktory.fun** - NFT and token launchpad
+7. **Deorganized Media** - Content platform
+8. **Skullcoin** - Community token
 
 Each deliverable includes:
 - **Design Audit Report** - UX issues, friction points, accessibility gaps
