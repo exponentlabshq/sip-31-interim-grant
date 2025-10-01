@@ -9,6 +9,8 @@
 ### Zero Authority DAO: Measurable Design Impact
 Visit: https://zeroauthoritydao.com/
 
+![Zero Authority Growth Analytics](zero-auth-growth-analytics.jpeg)
+
 **📊 Growth Stats After Rocky's UI/UX Redesign:**
 - **Unique Visitors:** ~10x increase (+~970%)
 - **Page Views:** ~25x increase (+~2,370%)
