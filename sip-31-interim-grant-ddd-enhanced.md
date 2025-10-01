@@ -1,5 +1,11 @@
 ![SIP-31 Interim Grant](screenshot-sip-31-interim-grant.png)
 
+## Rocky's Proven Track Record
+
+![BNS One Impact - Rocky's Design Success](bns-screenshot-impact.jpeg)
+
+*Rocky's UI/UX redesign for BNS One (Bitcoin Name Service) demonstrating measurable impact on platform success and user adoption.*
+
 ## 🙂 Applicant Information                
 - **Email:** rocky@exponentlabs.ai
 - **Twitter:** @rockyntheblock
@@ -223,10 +229,4 @@ Each week focuses on one application with designer mentees working alongside Roc
 - ✅ **Support builders with design resources** as Stacks achieves roadmap goals: $1B TVL, millions of users, and fastest Bitcoin L2 performance
 
 ---
-
-## Rocky's Proven Track Record
-
-![BNS One Impact - Rocky's Design Success](bns-screenshot-impact.jpeg)
-
-*Rocky's UI/UX redesign for BNS One (Bitcoin Name Service) demonstrating measurable impact on platform success and user adoption.*
 
