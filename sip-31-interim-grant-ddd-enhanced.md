@@ -6,15 +6,25 @@
 
 *Rocky's UI/UX redesign for BNS One (Bitcoin Name Service) demonstrating measurable impact on platform success and user adoption.*
 
+### Zero Authority DAO: Measurable Design Impact
+
+**📊 Growth Stats After Rocky's UI/UX Redesign:**
+- **Unique Visitors:** ~10x increase (+~970%)
+- **Page Views:** ~25x increase (+~2,370%)
+- **Bounce Rate:** 32% improvement (from 44% → 30%)
+- **Event Completions (Engagement ROI):** Low baseline → 4,700+ events (massive positive shift)
+
+These metrics demonstrate the direct business impact of exceptional design work—Rocky's redesign didn't just make Zero Authority look better, it drove real user growth, engagement, and retention.
+
 ## 🙂 Applicant Information                
 - **Email:** rocky@exponentlabs.ai
 - **Twitter:** @rockyntheblock
 - **Main project/association:** Exponent Labs LLC - Stacks ecosystem development and design
 - **Notable ecosystem achievements or impact:**
-  - Rocky lead the UI/UX Experience Redesign for Zero Authority, resulting in measurable increases in transaction volume and new wallet creation
+  - Rocky lead the UI/UX Experience Redesign for Zero Authority, resulting in **10x visitor growth (+970%)**, **25x page view increase (+2,370%)**, **32% bounce rate improvement**, and **4,700+ event completions**
   - Rocky lead the UI/UX Experience Redesign for BNS One (Bitcoin Name Service), contributing to platform success and user adoption
-  - Demonstrated track record of significant ROI on design investment across Stacks applications
-  - Demonstrated track record of leading mentees and helping them get permanent full-time jobs in tech (Ayden, Christina, Tien, etc.)
+  - Demonstrated track record of significant ROI on design investment across Stacks applications (industry standard: $100 return per $1 invested)
+  - Demonstrated track record of leading mentees and helping them secure permanent full-time jobs in tech (Ayden, Christina, Tien, etc.)
 
 ## 📃 Grant Overview
 - **Grant Name:** Design-Driven Development (DDD) for Stacks
@@ -68,7 +78,12 @@
   - **Risk:** Low community engagement in livestreams. **Mitigation:** Partner with project teams to promote sessions, offer bounties for participation, record and publish for async viewing, and leverage existing Stacks community channels for distribution.
 
 - **Traction:**
-  - **Zero Authority:** Rocky's UI/UX design correlated with measurable increases in transaction volume, new wallet creation, and revenue generation
+  - **Zero Authority:** Rocky's UI/UX redesign delivered exceptional measurable results:
+    - **10x increase in unique visitors** (+~970%)
+    - **25x increase in page views** (+~2,370%)
+    - **32% bounce rate improvement** (44% → 30%)
+    - **4,700+ event completions** (from low baseline to massive engagement)
+    - Increases in transaction volume, new wallet creation, and revenue generation
   - **BNS One:** Design improvements led to strong user adoption and platform success, demonstrating ROI on design investment
   - **Existing demand:** 3+ designers already interested in participating based on informal outreach
   - **Project interest:** Multiple projects (BoostX, Deorganized Media, Velar) already confirmed interest in receiving design audits
