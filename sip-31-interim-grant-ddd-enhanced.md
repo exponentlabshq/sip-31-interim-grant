@@ -28,8 +28,8 @@ These metrics demonstrate the direct business impact of exceptional design work�
 
 ## 📃 Grant Overview
 - **Grant Name:** Design-Driven Development (DDD) for Stacks
-- **Total Budget (USD, STX, or BTC):** $16,000 USD (8 weeks × $2,000/week)
-- **Grant Goal (in one sentence):** Train and mentor a cohort of 5-8 UI/UX designers through hands-on design audits and redesigns of 8 top Stacks applications, building a sustainable talent pipeline while improving ecosystem UX and reaching 2,000+ community members through public education.
+- **Total Budget (USD, STX, or BTC):** $16,000 USD (8 projects × $2,000/project, delivered biweekly over 16 weeks)
+- **Grant Goal (in one sentence):** Train and mentor a cohort of 5-8 UI/UX designers through hands-on design audits and redesigns of 8 top Stacks applications (one project every 2 weeks), building a sustainable talent pipeline while improving ecosystem UX and reaching 2,000+ community members through public education.
 - **Grant Audience:** Aspiring UI/UX designers, front-end developers seeking design skills, Stacks project teams, Bitcoin builders, and the broader Stacks community
 - **Grant Team:** Rocky (@rockyntheblock)
 
@@ -37,13 +37,13 @@ These metrics demonstrate the direct business impact of exceptional design work�
 
 **Primary Impact: Designer Training**
 - **5-8 trained UI/UX designers** with professional portfolio work (8 real projects each)
-- **Cost per designer trained:** $2,000-$3,200 per designer for 8 weeks of intensive mentorship
+- **Cost per designer trained:** $2,000-$3,200 per designer for 16 weeks of intensive mentorship
 - **Value created per designer:** Each trained designer can deliver $50k-$100k+ annual value to ecosystem (based on industry design rates of $75-150/hour)
 - **ROI timeframe:** Each designer generates 15-30x return within first year through project work
 
 **Secondary Impact: Ecosystem Reach**
 - **8 Stacks project teams** receive professional design audits and implementation guides
-- **2,000+ community members** reached through 8 weekly livestreamed review sessions
+- **2,000+ community members** reached through 8 biweekly livestreamed review sessions
 - **500+ engaged viewers** attending live sessions and participating in Q&A
 - **100+ developers** implementing design improvements based on audits
 - **50+ builders** accessing reusable component library and design patterns
@@ -54,7 +54,7 @@ These metrics demonstrate the direct business impact of exceptional design work�
 - **Self-sustaining mentorship** where trained designers mentor next cohort
 
 **Cost Breakdown & Justification:**
-- **Mentor compensation (Rocky):** $8,000 (50% of budget) - 40+ hours/week for 8 weeks including audit work, mentorship sessions, livestreams, and deliverable reviews
+- **Mentor compensation (Rocky):** $8,000 (50% of budget) - 20+ hours/week for 16 weeks (one intensive project every 2 weeks) including audit work, mentorship sessions, livestreams, and deliverable reviews
 - **Mentee stipends:** $4,000 (25% of budget) - Small stipends for 5-8 mentees ($500-800 each) to enable participation
 - **Tools & infrastructure:** $2,000 (12.5% of budget) - Figma licenses, design tools, hosting for component library
 - **Community bounties:** $2,000 (12.5% of budget) - Implementation bounties for projects adopting designs
@@ -73,7 +73,7 @@ These metrics demonstrate the direct business impact of exceptional design work�
 
 - **Grant Risks:** 
   - **Risk:** Designer mentees may lack foundational skills. **Mitigation:** Screen candidates for basic design understanding (portfolio review + skills assessment), provide beginner-friendly guides, and offer 1-on-1 mentorship sessions tailored to skill level. One interested participant is currently in school studying UI/UX Design.
-  - **Risk:** Low retention of trained designers post-grant (target: 70%+). **Mitigation:** Build community through weekly livestreams, create ongoing paid opportunities through project partnerships, establish Stacks Design Guild with recurring projects, and track retention via 3-month and 6-month check-ins.
+  - **Risk:** Low retention of trained designers post-grant (target: 70%+). **Mitigation:** Build community through biweekly livestreams, create ongoing paid opportunities through project partnerships, establish Stacks Design Guild with recurring projects, and track retention via 3-month and 6-month check-ins.
   - **Risk:** Quality dilution with multiple designers producing work. **Mitigation:** Rocky reviews all deliverables before publication, provides multiple feedback loops per project, establishes quality rubric for audits/prototypes, and maintains high bar demonstrated in Zero Authority and BNS One work.
   - **Risk:** Low community engagement in livestreams. **Mitigation:** Partner with project teams to promote sessions, offer bounties for participation, record and publish for async viewing, and leverage existing Stacks community channels for distribution.
 
@@ -94,13 +94,15 @@ These metrics demonstrate the direct business impact of exceptional design work�
 
 ## 🛣️ Grant Roadmap & Deliverables
 
-**Duration:** 8 weeks (under 2 months)
+**Duration:** 16 weeks (4 months)
+
+**Schedule:** One project every 2 weeks to allow for thorough mentorship and high-quality deliverables
 
 **Primary Deliverable:** Cohort of 5-8 trained UI/UX experience designers equipped to elevate Stacks ecosystem design standards.
 
-**Weekly Deliverables (8 complete packages):**
+**Biweekly Deliverables (8 complete packages):**
 
-Each week focuses on one application with designer mentees working alongside Rocky:
+Each 2-week cycle focuses on one application with designer mentees working alongside Rocky:
 
 1. **Design Audit Report** - Mentees learn to identify UX issues, friction points, accessibility gaps, and user flow problems through hands-on analysis
 2. **Experience Design Prototypes** - Mentees collaboratively create multiple design variations and prototypes under Rocky's guidance
@@ -111,7 +113,7 @@ Each week focuses on one application with designer mentees working alongside Roc
 
 ## 📈 Milestones: Impact-Focused
 
-**Milestone 1 - Week 2 Complete (End of Week 2)**
+**Milestone 1 - Week 4 Complete (End of Week 4)**
 **Amount:** $4,000 (25% of budget)
 
 **Impact Metrics:**
@@ -123,12 +125,12 @@ Each week focuses on one application with designer mentees working alongside Roc
 - ✅ **2 implementation guides** published for ecosystem reference
 
 **Deliverables:**
-- Week 1: BoostX audit + redesign + live session + mentorship
-- Week 2: Deorganized Media audit + redesign + live session + mentorship
+- Weeks 1-2: BoostX audit + redesign + live session + mentorship
+- Weeks 3-4: Deorganized Media audit + redesign + live session + mentorship
 
 ---
 
-**Milestone 2 - Week 4 Complete (End of Week 4)**
+**Milestone 2 - Week 8 Complete (End of Week 8)**
 **Amount:** $4,000 (25% of budget)
 
 **Impact Metrics:**
@@ -140,12 +142,12 @@ Each week focuses on one application with designer mentees working alongside Roc
 - ✅ **2 projects beginning implementation** of design recommendations
 
 **Deliverables:**
-- Week 3: Velar audit + redesign + live session + mentorship (DeFi UX focus)
-- Week 4: StackingDAO audit + redesign + live session + mentorship
+- Weeks 5-6: Velar audit + redesign + live session + mentorship (DeFi UX focus)
+- Weeks 7-8: StackingDAO audit + redesign + live session + mentorship
 
 ---
 
-**Milestone 3 - Week 6 Complete (End of Week 6)**
+**Milestone 3 - Week 12 Complete (End of Week 12)**
 **Amount:** $4,000 (25% of budget)
 
 **Impact Metrics:**
@@ -158,12 +160,12 @@ Each week focuses on one application with designer mentees working alongside Roc
 - ✅ **5-8 designers** with 6 professional projects in portfolio (job-ready threshold)
 
 **Deliverables:**
-- Week 5: Hermetica audit + redesign + live session + mentorship (Financial UX)
-- Week 6: Boom Wallet audit + redesign + live session + mentorship (Wallet UX)
+- Weeks 9-10: Hermetica audit + redesign + live session + mentorship (Financial UX)
+- Weeks 11-12: Boom Wallet audit + redesign + live session + mentorship (Wallet UX)
 
 ---
 
-**Milestone 4 - Week 8 Complete (Grant Completion)**
+**Milestone 4 - Week 16 Complete (Grant Completion)**
 **Amount:** $4,000 (25% of budget)
 
 **Impact Metrics:**
@@ -178,8 +180,8 @@ Each week focuses on one application with designer mentees working alongside Roc
 - ✅ **Measurable UX improvements** in at least 2 projects (engagement metrics tracked)
 
 **Deliverables:**
-- Week 7: Faktory.fun audit + redesign + live session + mentorship
-- Week 8: Skullcoin audit + redesign + live session + mentorship
+- Weeks 13-14: Faktory.fun audit + redesign + live session + mentorship
+- Weeks 15-16: Skullcoin audit + redesign + live session + mentorship
 - Final: Component library published, Design Guild established, impact report completed
 
 **Long-term Tracking (Post-Grant):**
@@ -190,16 +192,16 @@ Each week focuses on one application with designer mentees working alongside Roc
 
 ## 📋 Project Scope
 
-| Week | Project | Type | Mentorship Focus | Strategic Focus | Expected Reach |
-|------|---------|------|------------------|-----------------|----------------|
-| 1 | BoostX | Features & integrations | Audit methodology | Fast, consistent user flows that compete with top ecosystems | 200+ viewers |
-| 2 | Deorganized Media | Content platform | Prototyping techniques | User engagement patterns for Web3 content platforms | 200+ viewers |
-| 3 | Velar | Leading DEX | DeFi UX patterns | Low-cost transaction flows & liquidity interfaces for DeFi TVL growth | 300+ viewers |
-| 4 | StackingDAO | Liquid staking protocol | Staking interface design | Simplified stacking experience & Bitcoin yield | 250+ viewers |
-| 5 | Hermetica | Bitcoin-backed stablecoin (USDh) | Financial app UX | Stablecoin liquidity flows critical for Stacks DeFi growth | 250+ viewers |
-| 6 | Boom Wallet | Stacks wallet | Wallet UX & security design | Wallet integrations & onboarding flows for millions of new users | 300+ viewers |
-| 7 | Faktory.fun | NFT & token launchpad | NFT marketplace design | Token launch UX supporting builders' TGE readiness | 250+ viewers |
-| 8 | Skullcoin | Community token | Community-driven design | Community engagement patterns for ecosystem network effects | 250+ viewers |
+| Weeks | Project | Type | Mentorship Focus | Strategic Focus | Expected Reach |
+|-------|---------|------|------------------|-----------------|----------------|
+| 1-2 | BoostX | Features & integrations | Audit methodology | Fast, consistent user flows that compete with top ecosystems | 200+ viewers |
+| 3-4 | Deorganized Media | Content platform | Prototyping techniques | User engagement patterns for Web3 content platforms | 200+ viewers |
+| 5-6 | Velar | Leading DEX | DeFi UX patterns | Low-cost transaction flows & liquidity interfaces for DeFi TVL growth | 300+ viewers |
+| 7-8 | StackingDAO | Liquid staking protocol | Staking interface design | Simplified stacking experience & Bitcoin yield | 250+ viewers |
+| 9-10 | Hermetica | Bitcoin-backed stablecoin (USDh) | Financial app UX | Stablecoin liquidity flows critical for Stacks DeFi growth | 250+ viewers |
+| 11-12 | Boom Wallet | Stacks wallet | Wallet UX & security design | Wallet integrations & onboarding flows for millions of new users | 300+ viewers |
+| 13-14 | Faktory.fun | NFT & token launchpad | NFT marketplace design | Token launch UX supporting builders' TGE readiness | 250+ viewers |
+| 15-16 | Skullcoin | Community token | Community-driven design | Community engagement patterns for ecosystem network effects | 250+ viewers |
 
 **Alternative candidates:** STXTools and other high-impact Stacks applications may be considered based on project availability and community input.
 
@@ -216,13 +218,13 @@ Each week focuses on one application with designer mentees working alongside Roc
 
 **Primary (Talent Development):**
 - ✅ **5-8 trained UI/UX designers** with professional 8-project portfolios (vs. goal: 5-8)
-- ✅ **100% mentee completion rate** (all enrolled designers complete 8 weeks)
+- ✅ **100% mentee completion rate** (all enrolled designers complete 16 weeks)
 - ✅ **70%+ designer retention** in Stacks ecosystem 6 months post-grant
 - ✅ **Stacks Design Guild formed** with recurring meetings and project pipeline
 - ✅ **3+ trained designers** securing paid work within 3 months
 
 **Secondary (Project Deliverables):**
-- ✅ **8 complete design audit packages** delivered on schedule (1 per week)
+- ✅ **8 complete design audit packages** delivered on schedule (1 every 2 weeks)
 - ✅ **8 project teams** equipped with implementation guides
 - ✅ **50%+ implementation rate** (4+ projects implementing designs within 6 months)
 - ✅ **Reusable component library** with patterns from all 8 projects
