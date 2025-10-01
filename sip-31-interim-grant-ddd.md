@@ -110,3 +110,17 @@ Each week includes: Design audit by mentees, experience design prototypes, UI/UX
 ![BNS One Impact - Rocky's Design Success](bns-screenshot-impact.jpeg)
 
 *Rocky's UI/UX redesign for BNS One (Bitcoin Name Service) demonstrating measurable impact on platform success and user adoption.*
+
+### Zero Authority DAO: Measurable Design Impact
+
+![Zero Authority Growth Analytics](zero-auth-growth-analytics.jpeg)
+
+**📊 Growth Stats After Rocky's UI/UX Redesign:**
+- **Unique Visitors:** ~10x increase (+~970%)
+- **Page Views:** ~25x increase (+~2,370%)
+- **Bounce Rate:** 32% improvement (from 44% → 30%)
+- **Event Completions (Engagement ROI):** Low baseline → 4,700+ events (massive positive shift)
+
+Visit: https://zeroauthoritydao.com/
+
+These metrics demonstrate the direct business impact of exceptional design work—Rocky's redesign didn't just make Zero Authority look better, it drove real user growth, engagement, and retention.

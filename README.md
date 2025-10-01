@@ -18,6 +18,12 @@ This grant addresses the gap strategically: **Rocky will train a new generation 
 
 **The thesis**: As the leading Bitcoin L2 accelerates toward its roadmap goals, design excellence becomes infrastructure. This grant doesn't just improve UX—it builds the **human capital required for ecosystem sustainability**, positioning Stacks as the premier destination where design excellence and Bitcoin innovation meet.
 
+### Zero Authority Growth Analytics
+
+![Zero Authority Growth - Rocky's Design Impact](zero-auth-growth-analytics.jpeg)
+
+*Rocky's UI/UX redesign for Zero Authority delivered exceptional measurable results: 10x visitor growth, 25x page view increase, and 32% bounce rate improvement.*
+
 ---
 
 ## The Problem
