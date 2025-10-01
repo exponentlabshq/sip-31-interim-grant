@@ -4,9 +4,10 @@
 
 ![BNS One Impact - Rocky's Design Success](bns-screenshot-impact.jpeg)
 
-*Rocky's UI/UX redesign for BNS One (Bitcoin Name Service) demonstrating measurable impact on platform success and user adoption.*
+*Rocky's UI/UX redesign for BNS.One (Bitcoin Name Service) demonstrating measurable impact on platform success and user adoption.*
 
 ### Zero Authority DAO: Measurable Design Impact
+Visit: https://zeroauthoritydao.com/
 
 **📊 Growth Stats After Rocky's UI/UX Redesign:**
 - **Unique Visitors:** ~10x increase (+~970%)
