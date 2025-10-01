@@ -102,3 +102,11 @@ Each week includes: Design audit by mentees, experience design prototypes, UI/UX
 - Position Stacks as the premier destination for designers in the leading Bitcoin L2, attracting design talent alongside DeFi capital
 - Ecosystem growth from the ground up through human capital investment, ensuring the leading Bitcoin L2 has the design infrastructure needed for long-term sustainability and value accrual
 - Support builders with design resources as Stacks achieves its roadmap goals: $1B TVL, millions of users, and fastest Bitcoin L2 performance
+
+---
+
+## Rocky's Proven Track Record
+
+![BNS One Impact - Rocky's Design Success](bns-screenshot-impact.jpeg)
+
+*Rocky's UI/UX redesign for BNS One (Bitcoin Name Service) demonstrating measurable impact on platform success and user adoption.*

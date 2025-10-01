@@ -2,6 +2,8 @@
 
 **By Exponent Labs LLC**
 
+![BNS One Impact - Rocky's Design Success](bns-screenshot-impact.jpeg)
+
 📄 **[Read the Full Grant Submission →](sip-31-interim-grant-ddd.md)**
 
 ## Executive Thesis
